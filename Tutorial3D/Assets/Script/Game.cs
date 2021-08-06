@@ -14,7 +14,7 @@ public class Game : MonoBehaviour
     {
         var h = Input.GetAxis("Horizontal");
         var v = Input.GetAxis("Vertical");
-        var vec3 = new Vector3(h,0,v);
+        var vec3 = new Vector3(h,v,0);
         if (vec3.Equals(Vector3.zero))
         {
             playerCtrl.SetIdle();
