@@ -20,6 +20,7 @@ public class FollowCamera : MonoBehaviour
 
     private void LateUpdate()
     {
-        this.transform.LookAt(target);
+        // this.transform.LookAt(target);
+        this.transform.position = new Vector3(target.position.x,target.position.y, this.transform.position.z);
     }
 }

@@ -7,7 +7,6 @@ public class Game : MonoBehaviour
     public PlayerCtrl playerCtrl;
     void Start()
     {
-        
     }
 
     void UpdateOperation()

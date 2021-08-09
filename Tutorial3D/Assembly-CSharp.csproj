@@ -60,6 +60,7 @@
   <ItemGroup>
      <Compile Include="Assets\Script\FollowCamera.cs" />
      <Compile Include="Assets\Script\Game.cs" />
+     <Compile Include="Assets\Script\MapCube.cs" />
      <Compile Include="Assets\Script\PlayerCtrl.cs" />
      <Compile Include="Assets\Script\PlayerMove.cs" />
      <None Include="Assets\2DBeginner_Third-PartyNotice.txt" />
@@ -84,14 +85,17 @@
  <Reference Include="Unity.Rider.Editor">
  <HintPath>/Users/wangjunjie/Documents/unity/unityLearn/Tutorial3D/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.2D.Tilemap.Editor">
+ <HintPath>/Users/wangjunjie/Documents/unity/unityLearn/Tutorial3D/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.TextMeshPro">
  <HintPath>/Users/wangjunjie/Documents/unity/unityLearn/Tutorial3D/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
  <HintPath>/Users/wangjunjie/Documents/unity/unityLearn/Tutorial3D/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
- <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>/Users/wangjunjie/Documents/unity/unityLearn/Tutorial3D/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <Reference Include="Unity.2D.Sprite.Editor">
+ <HintPath>/Users/wangjunjie/Documents/unity/unityLearn/Tutorial3D/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Hub/Editor/2019.4.12f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
