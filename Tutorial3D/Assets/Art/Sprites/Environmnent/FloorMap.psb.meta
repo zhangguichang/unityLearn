@@ -1,0 +1,6648 @@
+fileFormatVersion: 2
+guid: b6f71220bc13b4d03addbd867f74f4ab
+ScriptedImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3963576528496104356
+    second: FloorMap_0
+  - first:
+      213: 170221259707083960
+    second: FloorMap_1
+  - first:
+      213: -2878545095994982681
+    second: FloorMap_2
+  - first:
+      213: -8770609378693738592
+    second: FloorMap_3
+  - first:
+      213: -6713030283001119755
+    second: FloorMap_4
+  - first:
+      213: -3691929848872196719
+    second: FloorMap_5
+  - first:
+      213: -489629403811592911
+    second: FloorMap_6
+  - first:
+      213: -3566070315430384588
+    second: FloorMap_7
+  - first:
+      213: -6536132030323323076
+    second: FloorMap_8
+  - first:
+      213: 3778842857118212073
+    second: FloorMap_9
+  - first:
+      213: 6003584081809053146
+    second: FloorMap_10
+  - first:
+      213: -6522577223572978262
+    second: FloorMap_11
+  - first:
+      213: 5490682905936683249
+    second: FloorMap_12
+  - first:
+      213: 4607433101659251909
+    second: FloorMap_13
+  - first:
+      213: -6822155589114793723
+    second: FloorMap_14
+  - first:
+      213: -7680677991823682606
+    second: FloorMap_15
+  - first:
+      213: -9215261573137563101
+    second: FloorMap_16
+  - first:
+      213: 3151223979951182131
+    second: FloorMap_17
+  - first:
+      213: -3122255759595215376
+    second: FloorMap_18
+  - first:
+      213: 4276351547739777217
+    second: FloorMap_19
+  - first:
+      213: -2730383298225823277
+    second: FloorMap_20
+  - first:
+      213: -2110123496662430865
+    second: FloorMap_21
+  - first:
+      213: -7915417608403633666
+    second: FloorMap_22
+  - first:
+      213: 2628825616340384969
+    second: FloorMap_23
+  - first:
+      213: -5006455046557678721
+    second: FloorMap_24
+  - first:
+      213: -486237586945231987
+    second: FloorMap_25
+  - first:
+      213: -6661336528044941761
+    second: FloorMap_26
+  - first:
+      213: 1781302763112775050
+    second: FloorMap_27
+  - first:
+      213: 1829404438487760341
+    second: FloorMap_28
+  - first:
+      213: 4810287486863423514
+    second: FloorMap_29
+  - first:
+      213: 8700984434414324716
+    second: FloorMap_30
+  - first:
+      213: -6867219628656254623
+    second: FloorMap_31
+  - first:
+      213: -4810997976425800680
+    second: FloorMap_32
+  - first:
+      213: -6415292534151969144
+    second: FloorMap_33
+  - first:
+      213: -5239848661341116896
+    second: FloorMap_34
+  - first:
+      213: 2764472948013272252
+    second: FloorMap_35
+  - first:
+      213: -8447932746842642432
+    second: FloorMap_36
+  - first:
+      213: -5927231880422213771
+    second: FloorMap_37
+  - first:
+      213: -7733446932006551988
+    second: FloorMap_38
+  - first:
+      213: 4522450624743797391
+    second: FloorMap_39
+  - first:
+      213: 5994705949517421606
+    second: FloorMap_40
+  - first:
+      213: 2879670500955195015
+    second: FloorMap_41
+  - first:
+      213: -674720646049317982
+    second: FloorMap_42
+  - first:
+      213: -25839985216119382
+    second: FloorMap_43
+  - first:
+      213: -2938978031269109448
+    second: FloorMap_44
+  - first:
+      213: 936433960199475070
+    second: FloorMap_45
+  - first:
+      213: 6141641707972567780
+    second: FloorMap_46
+  - first:
+      213: 6631772989626288164
+    second: FloorMap_47
+  - first:
+      213: -5472878844348701925
+    second: FloorMap_48
+  - first:
+      213: 7928248825143694226
+    second: FloorMap_49
+  - first:
+      213: 278896696396536314
+    second: FloorMap_50
+  - first:
+      213: 660269844636894195
+    second: FloorMap_51
+  - first:
+      213: -2542505827020705169
+    second: FloorMap_52
+  - first:
+      213: -3087197017814834777
+    second: FloorMap_53
+  - first:
+      213: -8228744588085382716
+    second: FloorMap_54
+  - first:
+      213: -518684459348293828
+    second: FloorMap_55
+  - first:
+      213: 283343011214820068
+    second: FloorMap_56
+  - first:
+      213: -5745643285943873880
+    second: FloorMap_57
+  - first:
+      213: -7983375278027004749
+    second: FloorMap_58
+  - first:
+      213: 2274835578044779743
+    second: FloorMap_59
+  - first:
+      213: 1668170938467544953
+    second: FloorMap_60
+  - first:
+      213: -2975528205378563351
+    second: FloorMap_61
+  - first:
+      213: 705713517425183534
+    second: FloorMap_62
+  - first:
+      213: -6469039688938311811
+    second: FloorMap_63
+  - first:
+      213: -2423831228923820558
+    second: FloorMap_64
+  - first:
+      213: -8842910985268566853
+    second: FloorMap_65
+  - first:
+      213: 5357736164664475127
+    second: FloorMap_66
+  - first:
+      213: 6739020347033798776
+    second: FloorMap_67
+  - first:
+      213: 8288835746071616654
+    second: FloorMap_68
+  - first:
+      213: -7214146818548009023
+    second: FloorMap_69
+  - first:
+      213: 5951080090613383783
+    second: FloorMap_70
+  - first:
+      213: 6629638317250936180
+    second: FloorMap_71
+  - first:
+      213: 4154082372753435374
+    second: FloorMap_72
+  - first:
+      213: 5154667929320935697
+    second: FloorMap_73
+  - first:
+      213: -9193555940508991677
+    second: FloorMap_74
+  - first:
+      213: -3925559164400466651
+    second: FloorMap_75
+  - first:
+      213: -7634095159053106843
+    second: FloorMap_76
+  - first:
+      213: -7819374996309380114
+    second: FloorMap_77
+  - first:
+      213: -5612418559043373919
+    second: FloorMap_78
+  - first:
+      213: 1576563959934205194
+    second: FloorMap_79
+  - first:
+      213: -6759232252286246810
+    second: FloorMap_80
+  - first:
+      213: -728239046892471101
+    second: FloorMap_81
+  - first:
+      213: 1355692934266594083
+    second: FloorMap_82
+  - first:
+      213: 7254349559474991324
+    second: FloorMap_83
+  - first:
+      213: -4877426642078288239
+    second: FloorMap_84
+  - first:
+      213: -1435424121112475813
+    second: FloorMap_85
+  - first:
+      213: -2355051607260734755
+    second: FloorMap_86
+  - first:
+      213: 1204409691241466982
+    second: FloorMap_87
+  - first:
+      213: 6134463742842258342
+    second: FloorMap_88
+  - first:
+      213: -8779916739865300426
+    second: FloorMap_89
+  - first:
+      213: -8256072786416411674
+    second: FloorMap_90
+  - first:
+      213: 1458245013991729281
+    second: FloorMap_91
+  - first:
+      213: -2780582774913164928
+    second: FloorMap_92
+  - first:
+      213: 7850161360325865304
+    second: FloorMap_93
+  - first:
+      213: -2891317166615417972
+    second: FloorMap_94
+  - first:
+      213: 6519506321363735659
+    second: FloorMap_95
+  - first:
+      213: -21216823845477229
+    second: FloorMap_96
+  - first:
+      213: -1082703379943071750
+    second: FloorMap_97
+  - first:
+      213: -4325494293968824102
+    second: FloorMap_98
+  - first:
+      213: 5704584948760706220
+    second: FloorMap_99
+  - first:
+      213: -6997872860536569458
+    second: FloorMap_100
+  - first:
+      213: -864860311799267251
+    second: FloorMap_101
+  - first:
+      213: 146968759832006803
+    second: FloorMap_102
+  - first:
+      213: -5688470772909192873
+    second: FloorMap_103
+  - first:
+      213: 6339453208127144407
+    second: FloorMap_104
+  - first:
+      213: 5359837032297743954
+    second: FloorMap_105
+  - first:
+      213: 129343677261037744
+    second: FloorMap_106
+  - first:
+      213: -4230957739264373962
+    second: FloorMap_107
+  - first:
+      213: -9199476355758722116
+    second: FloorMap_108
+  - first:
+      213: -1958687790104293093
+    second: FloorMap_109
+  - first:
+      213: -6901136156879820098
+    second: FloorMap_110
+  - first:
+      213: -486866237382451626
+    second: FloorMap_111
+  - first:
+      213: -2336932583063305027
+    second: FloorMap_112
+  - first:
+      213: -6926545823676349734
+    second: FloorMap_113
+  - first:
+      213: -6822648460788199114
+    second: FloorMap_114
+  - first:
+      213: 7484497271370941733
+    second: FloorMap_115
+  - first:
+      213: 6049289353171180498
+    second: FloorMap_116
+  - first:
+      213: -2042844322912739973
+    second: FloorMap_117
+  - first:
+      213: 4868743627922898294
+    second: FloorMap_118
+  - first:
+      213: -5452916413179225368
+    second: FloorMap_119
+  - first:
+      213: -4401958760660876423
+    second: FloorMap_120
+  - first:
+      213: 8034033441990968018
+    second: FloorMap_121
+  - first:
+      213: -8066807994120435707
+    second: FloorMap_122
+  - first:
+      213: -3053420784398671687
+    second: FloorMap_123
+  - first:
+      213: 2445500941661678928
+    second: FloorMap_124
+  - first:
+      213: 2830685415039495031
+    second: FloorMap_125
+  - first:
+      213: -4848227164107734786
+    second: FloorMap_126
+  - first:
+      213: -3380873851947128938
+    second: FloorMap_127
+  - first:
+      213: -870879829975888535
+    second: FloorMap_128
+  - first:
+      213: -105127222382316722
+    second: FloorMap_129
+  - first:
+      213: 1561453364773466768
+    second: FloorMap_130
+  - first:
+      213: -7604162942254735036
+    second: FloorMap_131
+  - first:
+      213: -6800590488787750161
+    second: FloorMap_132
+  - first:
+      213: -3175246021803854123
+    second: FloorMap_133
+  - first:
+      213: 7125854872715073678
+    second: FloorMap_134
+  - first:
+      213: -5076137071202713890
+    second: FloorMap_135
+  - first:
+      213: 438291092507339228
+    second: FloorMap_136
+  - first:
+      213: 910969866565124914
+    second: FloorMap_137
+  - first:
+      213: 1342385325273304155
+    second: FloorMap_138
+  - first:
+      213: -2374137436804627761
+    second: FloorMap_139
+  - first:
+      213: -106386904075328741
+    second: FloorMap_140
+  - first:
+      213: -8551332754379720738
+    second: FloorMap_141
+  - first:
+      213: 3064282817199985283
+    second: FloorMap_142
+  - first:
+      213: 2402068500318606674
+    second: FloorMap_143
+  - first:
+      213: -6795965525609579348
+    second: FloorMap_144
+  - first:
+      213: 4164360532187262267
+    second: FloorMap_145
+  - first:
+      213: 7431001265444820301
+    second: FloorMap_146
+  - first:
+      213: -6699579593319645102
+    second: FloorMap_147
+  - first:
+      213: -673333684016868077
+    second: FloorMap_148
+  - first:
+      213: 2305322828270213477
+    second: FloorMap_149
+  - first:
+      213: 7739263708388040482
+    second: FloorMap_150
+  - first:
+      213: 1092678584431809786
+    second: FloorMap_151
+  - first:
+      213: 5552004286774474694
+    second: FloorMap_152
+  - first:
+      213: 5511704455724420049
+    second: FloorMap_153
+  - first:
+      213: 1607590970316326413
+    second: FloorMap_154
+  - first:
+      213: 1235562902550773130
+    second: FloorMap_155
+  - first:
+      213: 8123182661885424272
+    second: FloorMap_156
+  - first:
+      213: 1693718119801754363
+    second: FloorMap_157
+  - first:
+      213: 7319246180199342756
+    second: FloorMap_158
+  - first:
+      213: -3601065898876251893
+    second: FloorMap_159
+  - first:
+      213: -8205286057942694097
+    second: FloorMap_160
+  - first:
+      213: 3513110021068033768
+    second: FloorMap_161
+  - first:
+      213: 6616920452566455800
+    second: FloorMap_162
+  - first:
+      213: 567058357135423026
+    second: FloorMap_163
+  - first:
+      213: 4327495519368615975
+    second: FloorMap_164
+  - first:
+      213: -2293602198080459227
+    second: FloorMap_165
+  - first:
+      213: -6207929630023476303
+    second: FloorMap_166
+  - first:
+      213: -222808372470038008
+    second: FloorMap_167
+  - first:
+      213: -6597039487942286215
+    second: FloorMap_168
+  - first:
+      213: -722018599819344402
+    second: FloorMap_169
+  - first:
+      213: -8092836155362644263
+    second: FloorMap_170
+  - first:
+      213: -5555748217513541413
+    second: FloorMap_171
+  - first:
+      213: 208218823644771311
+    second: FloorMap_172
+  - first:
+      213: -6220176375269647866
+    second: FloorMap_173
+  - first:
+      213: 1984557600208320139
+    second: FloorMap_174
+  - first:
+      213: 5114004800239740455
+    second: FloorMap_175
+  - first:
+      213: 337281622696324067
+    second: FloorMap_176
+  - first:
+      213: -481726364553756986
+    second: FloorMap_177
+  - first:
+      213: 8712434439792149990
+    second: FloorMap_178
+  - first:
+      213: -2221307411884822505
+    second: FloorMap_179
+  - first:
+      213: 5720996325682866598
+    second: FloorMap_180
+  - first:
+      213: 5081104975903552644
+    second: FloorMap_181
+  - first:
+      213: -6802760789484447089
+    second: FloorMap_182
+  - first:
+      213: -5501147787081425239
+    second: FloorMap_183
+  - first:
+      213: 451465571473762564
+    second: FloorMap_184
+  - first:
+      213: 4410198269714441823
+    second: FloorMap_185
+  - first:
+      213: 4536838248780208347
+    second: FloorMap_186
+  - first:
+      213: 2102953507480490306
+    second: FloorMap_187
+  - first:
+      213: 533658388750502818
+    second: FloorMap_188
+  - first:
+      213: 8488729268844089107
+    second: FloorMap_189
+  - first:
+      213: 7868848021376104391
+    second: FloorMap_190
+  - first:
+      213: 1816076251062000027
+    second: FloorMap_191
+  - first:
+      213: -4209220044019149530
+    second: FloorMap_192
+  - first:
+      213: -9056826346235291337
+    second: FloorMap_193
+  - first:
+      213: 3388398469638672510
+    second: FloorMap_194
+  - first:
+      213: 592407214060099013
+    second: FloorMap_195
+  - first:
+      213: 364921136955104922
+    second: FloorMap_196
+  - first:
+      213: 4917811580182567119
+    second: FloorMap_197
+  - first:
+      213: -7633177875693128449
+    second: FloorMap_198
+  - first:
+      213: 4602046278189271064
+    second: FloorMap_199
+  - first:
+      213: 3862699975847504874
+    second: FloorMap_200
+  - first:
+      213: 1967693538909637315
+    second: FloorMap_201
+  - first:
+      213: 2856826934053569050
+    second: FloorMap_202
+  - first:
+      213: 2177567246559817368
+    second: FloorMap_203
+  - first:
+      213: -7632825921463491343
+    second: FloorMap_204
+  - first:
+      213: -6361545976717923080
+    second: FloorMap_205
+  - first:
+      213: 6570864487612133425
+    second: FloorMap_206
+  - first:
+      213: -6685860243417597056
+    second: FloorMap_207
+  - first:
+      213: -6949086336218976143
+    second: FloorMap_208
+  - first:
+      213: 4295604639910075181
+    second: FloorMap_209
+  - first:
+      213: 8962078448573932069
+    second: FloorMap_210
+  - first:
+      213: 311266880458183625
+    second: FloorMap_211
+  - first:
+      213: -4023682405297538249
+    second: FloorMap_212
+  - first:
+      213: -6599087595409180318
+    second: FloorMap_213
+  - first:
+      213: 6239074013082687801
+    second: FloorMap_214
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: FloorMap_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 4096
+      height: 8192
+    spriteID: c5ce9e2b52c8ef8c0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  - name: FloorMap_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 7791
+      width: 822
+      height: 383
+    spriteID: 8bc6f06755fbc5200800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 16, y: 7791}
+  - name: FloorMap_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 863
+      y: 7960
+      width: 531
+      height: 210
+    spriteID: 7eeb6438c7a5d08d0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 863, y: 7960}
+  - name: FloorMap_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1851
+      y: 8150
+      width: 43
+      height: 28
+    spriteID: 0af004f1d39884680800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1851, y: 8150}
+  - name: FloorMap_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2060
+      y: 8122
+      width: 26
+      height: 36
+    spriteID: 5fb3747568686d2a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2060, y: 8122}
+  - name: FloorMap_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2086
+      y: 8142
+      width: 72
+      height: 40
+    spriteID: 195af46fc51a3ccc0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2086, y: 8142}
+  - name: FloorMap_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2162
+      y: 8138
+      width: 56
+      height: 48
+    spriteID: 1354932c6ac7439f0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2162, y: 8138}
+  - name: FloorMap_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2267
+      y: 7970
+      width: 239
+      height: 200
+    spriteID: 43ce4b421f5c28ec0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2267, y: 7970}
+  - name: FloorMap_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2562
+      y: 8026
+      width: 147
+      height: 148
+    spriteID: c3f868f5c8efa45a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2562, y: 8026}
+  - name: FloorMap_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2710
+      y: 8026
+      width: 104
+      height: 136
+    spriteID: 9ef9d80be85217430800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2710, y: 8026}
+  - name: FloorMap_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1410
+      y: 7858
+      width: 194
+      height: 284
+    spriteID: ad51b6ff9e3015350800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1410, y: 7858}
+  - name: FloorMap_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1682
+      y: 8071
+      width: 68
+      height: 55
+    spriteID: aa501e0c2962b75a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1682, y: 8071}
+  - name: FloorMap_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1718
+      y: 8106
+      width: 52
+      height: 44
+    spriteID: 1f06aa61303d23c40800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1718, y: 8106}
+  - name: FloorMap_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1802
+      y: 8122
+      width: 24
+      height: 20
+    spriteID: 5c4a6c6aef3e0ff30800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1802, y: 8122}
+  - name: FloorMap_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1830
+      y: 8107
+      width: 56
+      height: 35
+    spriteID: 501fd5413a5d251a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1830, y: 8107}
+  - name: FloorMap_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1930
+      y: 8122
+      width: 36
+      height: 24
+    spriteID: 2d350377f00c86590800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1930, y: 8122}
+  - name: FloorMap_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2010
+      y: 8107
+      width: 47
+      height: 26
+    spriteID: 32204dc7c60dc1080800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2010, y: 8107}
+  - name: FloorMap_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1754
+      y: 8018
+      width: 100
+      height: 104
+    spriteID: 331deac83856bbb20800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1754, y: 8018}
+  - name: FloorMap_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1874
+      y: 8050
+      width: 108
+      height: 55
+    spriteID: 0f5e867dde48ba4d0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1874, y: 8050}
+  - name: FloorMap_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1971
+      y: 8098
+      width: 27
+      height: 19
+    spriteID: 1c8a8b95317a85b30800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1971, y: 8098}
+  - name: FloorMap_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2070
+      y: 8026
+      width: 56
+      height: 84
+    spriteID: 3d127904bdabb1ad0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2070, y: 8026}
+  - name: FloorMap_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1995
+      y: 8078
+      width: 43
+      height: 20
+    spriteID: f6b0b351cd557b2e0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1995, y: 8078}
+  - name: FloorMap_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1698
+      y: 8042
+      width: 56
+      height: 24
+    spriteID: ef9ba327f99c62290800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1698, y: 8042}
+  - name: FloorMap_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1775
+      y: 7962
+      width: 235
+      height: 100
+    spriteID: 9cc7a6e48f67b7420800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1775, y: 7962}
+  - name: FloorMap_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1970
+      y: 8054
+      width: 36
+      height: 20
+    spriteID: f73c7f519af758ab0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1970, y: 8054}
+  - name: FloorMap_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2011
+      y: 8027
+      width: 43
+      height: 30
+    spriteID: d83bfa9ad798049f0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2011, y: 8027}
+  - name: FloorMap_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2102
+      y: 8018
+      width: 48
+      height: 44
+    spriteID: f3e1c8498bd2e83a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2102, y: 8018}
+  - name: FloorMap_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1699
+      y: 8007
+      width: 39
+      height: 23
+    spriteID: a8d32c0ec6578b810800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1699, y: 8007}
+  - name: FloorMap_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2030
+      y: 7991
+      width: 24
+      height: 19
+    spriteID: 5ddf59ae4a9536910800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2030, y: 7991}
+  - name: FloorMap_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2086
+      y: 7954
+      width: 40
+      height: 60
+    spriteID: a18300abbf291c240800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2086, y: 7954}
+  - name: FloorMap_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2562
+      y: 7922
+      width: 208
+      height: 98
+    spriteID: ceb08794e3b10c870800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2562, y: 7922}
+  - name: FloorMap_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2748
+      y: 7962
+      width: 38
+      height: 52
+    spriteID: 161aa5fb12cb2b0a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2748, y: 7962}
+  - name: FloorMap_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1674
+      y: 7974
+      width: 36
+      height: 20
+    spriteID: 81c540884d6eb3db0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1674, y: 7974}
+  - name: FloorMap_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1746
+      y: 7954
+      width: 35
+      height: 23
+    spriteID: 88608ab0e6d48f6a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1746, y: 7954}
+  - name: FloorMap_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1998
+      y: 7970
+      width: 40
+      height: 20
+    spriteID: 026e4f787615847b0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1998, y: 7970}
+  - name: FloorMap_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1323
+      y: 7959
+      width: 9
+      height: 6
+    spriteID: cbc0289df716d5620800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1323, y: 7959}
+  - name: FloorMap_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1716
+      y: 7964
+      width: 8
+      height: 4
+    spriteID: 008ed020de9e2ca80800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1716, y: 7964}
+  - name: FloorMap_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1847
+      y: 7954
+      width: 27
+      height: 20
+    spriteID: 5773012320e3ebda0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1847, y: 7954}
+  - name: FloorMap_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2155
+      y: 7950
+      width: 26
+      height: 24
+    spriteID: c4e3a682df64da490800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2155, y: 7950}
+  - name: FloorMap_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2266
+      y: 7820
+      width: 252
+      height: 146
+    spriteID: f82f81ad1e8f2ce30800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2266, y: 7820}
+  - name: FloorMap_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 938
+      y: 7423
+      width: 447
+      height: 525
+    spriteID: 62c18edbc49713350800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 938, y: 7423}
+  - name: FloorMap_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1938
+      y: 7934
+      width: 40
+      height: 24
+    spriteID: 7860b9f3015a6f720800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1938, y: 7934}
+  - name: FloorMap_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2154
+      y: 7934
+      width: 16
+      height: 12
+    spriteID: 2abbb91b529e2a6f0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2154, y: 7934}
+  - name: FloorMap_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2210
+      y: 7938
+      width: 20
+      height: 20
+    spriteID: aad113c9ba234aff0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2210, y: 7938}
+  - name: FloorMap_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1674
+      y: 7547
+      width: 415
+      height: 382
+    spriteID: 831278b4d07a637d0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1674, y: 7547}
+  - name: FloorMap_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2090
+      y: 7834
+      width: 108
+      height: 92
+    spriteID: e7f4d41b9b1eefc00800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2090, y: 7834}
+  - name: FloorMap_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2586
+      y: 7890
+      width: 92
+      height: 28
+    spriteID: 4e2ad65f79e7b3550800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2586, y: 7890}
+  - name: FloorMap_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2726
+      y: 7878
+      width: 84
+      height: 40
+    spriteID: 42884bdb56ac80c50800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2726, y: 7878}
+  - name: FloorMap_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 594
+      y: 7790
+      width: 44
+      height: 36
+    spriteID: b1368d700bd6c04b0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 594, y: 7790}
+  - name: FloorMap_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1410
+      y: 7612
+      width: 260
+      height: 234
+    spriteID: 29319910d4cc60e60800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1410, y: 7612}
+  - name: FloorMap_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2087
+      y: 7554
+      width: 110
+      height: 276
+    spriteID: af9deb55117ded300800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2087, y: 7554}
+  - name: FloorMap_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2562
+      y: 7822
+      width: 20
+      height: 54
+    spriteID: 3f30c79ecefb92900800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2562, y: 7822}
+  - name: FloorMap_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 7423
+      width: 870
+      height: 363
+    spriteID: f62f11dcb6437bcd0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 7423}
+  - name: FloorMap_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2394
+      y: 7766
+      width: 64
+      height: 56
+    spriteID: 7a160814ba21825d0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2394, y: 7766}
+  - name: FloorMap_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2562
+      y: 7674
+      width: 184
+      height: 142
+    spriteID: 4c1b0c71560adcd80800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2562, y: 7674}
+  - name: FloorMap_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 918
+      y: 7734
+      width: 12
+      height: 20
+    spriteID: c37870a7b334dc8f0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 918, y: 7734}
+  - name: FloorMap_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2310
+      y: 7734
+      width: 20
+      height: 20
+    spriteID: 4e28c0da7f2aee300800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2310, y: 7734}
+  - name: FloorMap_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2334
+      y: 7746
+      width: 24
+      height: 20
+    spriteID: 8ae05378fdf5340b0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2334, y: 7746}
+  - name: FloorMap_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2378
+      y: 7750
+      width: 16
+      height: 16
+    spriteID: 3b4a09c7b7a553190800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2378, y: 7750}
+  - name: FloorMap_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2426
+      y: 7730
+      width: 20
+      height: 24
+    spriteID: fdc87c7d7e6d19f10800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2426, y: 7730}
+  - name: FloorMap_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2298
+      y: 7718
+      width: 16
+      height: 15
+    spriteID: 97fecf351a8862710800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2298, y: 7718}
+  - name: FloorMap_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2326
+      y: 7702
+      width: 20
+      height: 24
+    spriteID: 9e2514bbcdcc4b6d0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2326, y: 7702}
+  - name: FloorMap_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2374
+      y: 7710
+      width: 36
+      height: 24
+    spriteID: e2bc15f74b23bc900800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2374, y: 7710}
+  - name: FloorMap_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2422
+      y: 7710
+      width: 20
+      height: 16
+    spriteID: d7fade66daa5936a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2422, y: 7710}
+  - name: FloorMap_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2446
+      y: 7722
+      width: 12
+      height: 12
+    spriteID: 2f54f7cd652dc5ed0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2446, y: 7722}
+  - name: FloorMap_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 870
+      y: 7711
+      width: 11
+      height: 11
+    spriteID: bb4eaa68f4ba74580800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 870, y: 7711}
+  - name: FloorMap_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2298
+      y: 7694
+      width: 16
+      height: 20
+    spriteID: 7fdf61fb7a08a5a40800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2298, y: 7694}
+  - name: FloorMap_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 878
+      y: 7698
+      width: 12
+      height: 11
+    spriteID: 878441ffc4fc58d50800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 878, y: 7698}
+  - name: FloorMap_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 898
+      y: 7690
+      width: 12
+      height: 16
+    spriteID: e8c9826e13cd70370800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 898, y: 7690}
+  - name: FloorMap_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 930
+      y: 7692
+      width: 12
+      height: 12
+    spriteID: 1c77ee2d0b332eb90800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 930, y: 7692}
+  - name: FloorMap_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2358
+      y: 7682
+      width: 20
+      height: 20
+    spriteID: 76209eeefcb769250800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2358, y: 7682}
+  - name: FloorMap_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2466
+      y: 7682
+      width: 28
+      height: 20
+    spriteID: 47d7f099ce4310c50800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2466, y: 7682}
+  - name: FloorMap_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 884
+      y: 7672
+      width: 4
+      height: 8
+    spriteID: eea2ea3a8e346a930800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 884, y: 7672}
+  - name: FloorMap_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2266
+      y: 7650
+      width: 44
+      height: 40
+    spriteID: 111d54ecb2f098740800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2266, y: 7650}
+  - name: FloorMap_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2418
+      y: 7674
+      width: 20
+      height: 20
+    spriteID: 34f7747e49de96080800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2418, y: 7674}
+  - name: FloorMap_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2362
+      y: 7626
+      width: 16
+      height: 40
+    spriteID: 525812d0dbc9589c0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2362, y: 7626}
+  - name: FloorMap_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2458
+      y: 7646
+      width: 36
+      height: 20
+    spriteID: 5614c1766ee3e0690800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2458, y: 7646}
+  - name: FloorMap_77
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2718
+      y: 7640
+      width: 44
+      height: 30
+    spriteID: ee37863aedffb7390800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2718, y: 7640}
+  - name: FloorMap_78
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2326
+      y: 7611
+      width: 24
+      height: 33
+    spriteID: 1a4f8617e0fac12b0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2326, y: 7611}
+  - name: FloorMap_79
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2502
+      y: 7622
+      width: 20
+      height: 20
+    spriteID: a0dbf8d819411e510800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2502, y: 7622}
+  - name: FloorMap_80
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2670
+      y: 7626
+      width: 24
+      height: 16
+    spriteID: 6606d1814126232a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2670, y: 7626}
+  - name: FloorMap_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2758
+      y: 7610
+      width: 24
+      height: 24
+    spriteID: 3ccb76af176c4e5f0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2758, y: 7610}
+  - name: FloorMap_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2427
+      y: 7574
+      width: 47
+      height: 40
+    spriteID: 323a77b7a8360d210800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2427, y: 7574}
+  - name: FloorMap_83
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2458
+      y: 7610
+      width: 16
+      height: 16
+    spriteID: cd0b4093d70aca460800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2458, y: 7610}
+  - name: FloorMap_84
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2486
+      y: 7594
+      width: 20
+      height: 20
+    spriteID: 196b5ec8f46ef4cb0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2486, y: 7594}
+  - name: FloorMap_85
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2714
+      y: 7598
+      width: 16
+      height: 16
+    spriteID: b574017fd59541ce0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2714, y: 7598}
+  - name: FloorMap_86
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2506
+      y: 7586
+      width: 20
+      height: 20
+    spriteID: ddad2817a0d215fd0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2506, y: 7586}
+  - name: FloorMap_87
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2594
+      y: 7566
+      width: 16
+      height: 22
+    spriteID: 66c4c72ab3ce6b010800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2594, y: 7566}
+  - name: FloorMap_88
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2618
+      y: 7562
+      width: 36
+      height: 32
+    spriteID: 6a340a7b54ef12550800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2618, y: 7562}
+  - name: FloorMap_89
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1414
+      y: 7298
+      width: 232
+      height: 280
+    spriteID: 632b2da3e38772680800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1414, y: 7298}
+  - name: FloorMap_90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2282
+      y: 7562
+      width: 16
+      height: 24
+    spriteID: 6eb51e51b898c6d80800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2282, y: 7562}
+  - name: FloorMap_91
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1674
+      y: 7150
+      width: 404
+      height: 396
+    spriteID: 18826763d1abc3410800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1674, y: 7150}
+  - name: FloorMap_92
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2266
+      y: 7366
+      width: 272
+      height: 196
+    spriteID: 0891bb8c2b26969d0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2266, y: 7366}
+  - name: FloorMap_93
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2562
+      y: 7530
+      width: 20
+      height: 28
+    spriteID: 85f68bf4a2061fc60800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2562, y: 7530}
+  - name: FloorMap_94
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1410
+      y: 7502
+      width: 10
+      height: 11
+    spriteID: c8b26e61b5affd7d0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1410, y: 7502}
+  - name: FloorMap_95
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2134
+      y: 7511
+      width: 12
+      height: 11
+    spriteID: b649ccb1570f97a50800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2134, y: 7511}
+  - name: FloorMap_96
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2162
+      y: 7482
+      width: 20
+      height: 31
+    spriteID: 394ad6f396f94bff0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2162, y: 7482}
+  - name: FloorMap_97
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2560
+      y: 7402
+      width: 254
+      height: 128
+    spriteID: affd069230779f0f0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2560, y: 7402}
+  - name: FloorMap_98
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2107
+      y: 7495
+      width: 11
+      height: 11
+    spriteID: ad8520a6bd1c8f3c0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2107, y: 7495}
+  - name: FloorMap_99
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2110
+      y: 7459
+      width: 84
+      height: 46
+    spriteID: cacfbe569c1ca2f40800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2110, y: 7459}
+  - name: FloorMap_100
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2179
+      y: 7499
+      width: 10
+      height: 9
+    spriteID: e810f5ca5bf82ee90800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2179, y: 7499}
+  - name: FloorMap_101
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2079
+      y: 7475
+      width: 10
+      height: 10
+    spriteID: d400fdee0266ff3f0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2079, y: 7475}
+  - name: FloorMap_102
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2090
+      y: 7475
+      width: 12
+      height: 14
+    spriteID: 390ddd2fe432a0200800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2090, y: 7475}
+  - name: FloorMap_103
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2099
+      y: 7467
+      width: 11
+      height: 11
+    spriteID: 7594e8988fd7e01b0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2099, y: 7467}
+  - name: FloorMap_104
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2182
+      y: 7454
+      width: 12
+      height: 8
+    spriteID: 7d101acda134af750800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2182, y: 7454}
+  - name: FloorMap_105
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 7459
+      width: 10
+      height: 9
+    spriteID: 256471c1267f16a40800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2199, y: 7459}
+  - name: FloorMap_106
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2108
+      y: 7443
+      width: 9
+      height: 10
+    spriteID: 0b04611a3658bc100800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2108, y: 7443}
+  - name: FloorMap_107
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2178
+      y: 7426
+      width: 14
+      height: 27
+    spriteID: 63b057b4a5e9845c0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2178, y: 7426}
+  - name: FloorMap_108
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 7451
+      width: 6
+      height: 6
+    spriteID: cb3756fcef4e45080800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2199, y: 7451}
+  - name: FloorMap_109
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2215
+      y: 7443
+      width: 6
+      height: 9
+    spriteID: b1150fc15d751d4e0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2215, y: 7443}
+  - name: FloorMap_110
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2130
+      y: 7430
+      width: 24
+      height: 16
+    spriteID: ebae296aa3d3a30a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2130, y: 7430}
+  - name: FloorMap_111
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2163
+      y: 7435
+      width: 10
+      height: 10
+    spriteID: 65e10b39cbd4e39f0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2163, y: 7435}
+  - name: FloorMap_112
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2155
+      y: 7418
+      width: 15
+      height: 16
+    spriteID: db4c972823c819fd0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2155, y: 7418}
+  - name: FloorMap_113
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2175
+      y: 7416
+      width: 9
+      height: 9
+    spriteID: ad24e439547ffdf90800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2175, y: 7416}
+  - name: FloorMap_114
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2146
+      y: 7408
+      width: 11
+      height: 10
+    spriteID: 6319a537f551151a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2146, y: 7408}
+  - name: FloorMap_115
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3242
+      y: 3946
+      width: 88
+      height: 220
+    spriteID: 525027e1d964ed760800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3242, y: 3946}
+  - name: FloorMap_116
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3242
+      y: 3758
+      width: 132
+      height: 183
+    spriteID: 2db125fbd9463f350800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3242, y: 3758}
+  - name: FloorMap_117
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3354
+      y: 3758
+      width: 72
+      height: 100
+    spriteID: b7ddc5969eb56a3e0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3354, y: 3758}
+  - name: FloorMap_118
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3243
+      y: 3687
+      width: 6
+      height: 10
+    spriteID: 67d7acca880419340800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3243, y: 3687}
+  - name: FloorMap_119
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3250
+      y: 3650
+      width: 92
+      height: 108
+    spriteID: 8ea1e8ab9695354b0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3250, y: 3650}
+  - name: FloorMap_120
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3344
+      y: 3680
+      width: 4
+      height: 8
+    spriteID: 973c3ea64d919e2c0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3344, y: 3680}
+  - name: FloorMap_121
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3350
+      y: 3650
+      width: 76
+      height: 104
+    spriteID: 2d20b7f69de9e7f60800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3350, y: 3650}
+  - name: FloorMap_122
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3242
+      y: 3514
+      width: 116
+      height: 132
+    spriteID: 5088b2f7ed0fc0090800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3242, y: 3514}
+  - name: FloorMap_123
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3358
+      y: 3518
+      width: 68
+      height: 108
+    spriteID: 9b06f1c69f110a5d0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3358, y: 3518}
+  - name: FloorMap_124
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3244
+      y: 3430
+      width: 86
+      height: 84
+    spriteID: 05da0ad462a20f120800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3244, y: 3430}
+  - name: FloorMap_125
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3354
+      y: 3378
+      width: 72
+      height: 96
+    spriteID: 77bee4a236d984720800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3354, y: 3378}
+  - name: FloorMap_126
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3306
+      y: 3374
+      width: 48
+      height: 48
+    spriteID: ef085fcc413a7bcb0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3306, y: 3374}
+  - name: FloorMap_127
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3250
+      y: 3270
+      width: 140
+      height: 100
+    spriteID: 697e840f429b411d0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3250, y: 3270}
+  - name: FloorMap_128
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3242
+      y: 3138
+      width: 124
+      height: 128
+    spriteID: 96d0c34a8630ae3f0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3242, y: 3138}
+  - name: FloorMap_129
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3244
+      y: 3018
+      width: 130
+      height: 116
+    spriteID: e43bda529538a8ef0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3244, y: 3018}
+  - name: FloorMap_130
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3242
+      y: 2886
+      width: 124
+      height: 128
+    spriteID: 09239a4ff856ba510800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3242, y: 2886}
+  - name: FloorMap_131
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3242
+      y: 2774
+      width: 148
+      height: 112
+    spriteID: 441a7b4b716987690800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3242, y: 2774}
+  - name: FloorMap_132
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3278
+      y: 2746
+      width: 40
+      height: 24
+    spriteID: fe2f7e44bf27f91a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3278, y: 2746}
+  - name: FloorMap_133
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3322
+      y: 2750
+      width: 16
+      height: 16
+    spriteID: 5d6b8ebf0924fe3d0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3322, y: 2750}
+  - name: FloorMap_134
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3246
+      y: 2679
+      width: 16
+      height: 46
+    spriteID: e881b29904f14e260800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3246, y: 2679}
+  - name: FloorMap_135
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3286
+      y: 2722
+      width: 32
+      height: 20
+    spriteID: ede35cf6a30fd89b0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3286, y: 2722}
+  - name: FloorMap_136
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3318
+      y: 2702
+      width: 24
+      height: 24
+    spriteID: cd92e1d2d6f151600800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3318, y: 2702}
+  - name: FloorMap_137
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3326
+      y: 2666
+      width: 20
+      height: 20
+    spriteID: 23303b1644a64ac00800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3326, y: 2666}
+  - name: FloorMap_138
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3352
+      y: 2648
+      width: 12
+      height: 21
+    spriteID: b5ccc90575c11a210800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3352, y: 2648}
+  - name: FloorMap_139
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3326
+      y: 2630
+      width: 24
+      height: 24
+    spriteID: fc2cd47749e5d0fd0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3326, y: 2630}
+  - name: FloorMap_140
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3302
+      y: 2562
+      width: 64
+      height: 56
+    spriteID: b1326d5aca9068ef0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3302, y: 2562}
+  - name: FloorMap_141
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3330
+      y: 2607
+      width: 24
+      height: 19
+    spriteID: ed7b803ba20935980800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3330, y: 2607}
+  - name: FloorMap_142
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3282
+      y: 2590
+      width: 16
+      height: 12
+    spriteID: 382d98aacf4868a20800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3282, y: 2590}
+  - name: FloorMap_143
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3363
+      y: 2582
+      width: 11
+      height: 11
+    spriteID: 25555a7039cd55120800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3363, y: 2582}
+  - name: FloorMap_144
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3242
+      y: 2546
+      width: 28
+      height: 28
+    spriteID: cac7d3c6c51efa1a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3242, y: 2546}
+  - name: FloorMap_145
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3258
+      y: 2558
+      width: 56
+      height: 32
+    spriteID: b3dadad17d7cac930800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3258, y: 2558}
+  - name: FloorMap_146
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3282
+      y: 2530
+      width: 28
+      height: 24
+    spriteID: d451150a748302760800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3282, y: 2530}
+  - name: FloorMap_147
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3314
+      y: 2538
+      width: 12
+      height: 12
+    spriteID: 2500ab31bdf4603a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3314, y: 2538}
+  - name: FloorMap_148
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3328
+      y: 2532
+      width: 4
+      height: 8
+    spriteID: 3159ed4f496d7a6f0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3328, y: 2532}
+  - name: FloorMap_149
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3346
+      y: 2534
+      width: 32
+      height: 16
+    spriteID: 56915afe5e62eff10800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3346, y: 2534}
+  - name: FloorMap_150
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3276
+      y: 2514
+      width: 29
+      height: 16
+    spriteID: 22f9a81a653676b60800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3276, y: 2514}
+  - name: FloorMap_151
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3310
+      y: 2514
+      width: 16
+      height: 16
+    spriteID: af41cbe1269f92f00800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3310, y: 2514}
+  - name: FloorMap_152
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3343
+      y: 2515
+      width: 10
+      height: 10
+    spriteID: 6c773a8ab7eac0d40800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3343, y: 2515}
+  - name: FloorMap_153
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3339
+      y: 2504
+      width: 6
+      height: 9
+    spriteID: 1db446e00028d7c40800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3339, y: 2504}
+  - name: FloorMap_154
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3242
+      y: 2370
+      width: 176
+      height: 112
+    spriteID: d0684d9587f4f4610800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3242, y: 2370}
+  - name: FloorMap_155
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3242
+      y: 2186
+      width: 112
+      height: 184
+    spriteID: a8d7030e9e9952110800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3242, y: 2186}
+  - name: FloorMap_156
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3242
+      y: 2070
+      width: 176
+      height: 116
+    spriteID: 092fa4fa7975bb070800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3242, y: 2070}
+  - name: FloorMap_157
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3252
+      y: 2059
+      width: 9
+      height: 10
+    spriteID: bf21d6008ab418710800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3252, y: 2059}
+  - name: FloorMap_158
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3244
+      y: 2036
+      width: 8
+      height: 4
+    spriteID: 4a2aa623f9f239560800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3244, y: 2036}
+  - name: FloorMap_159
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3278
+      y: 1934
+      width: 82
+      height: 111
+    spriteID: b0155bce4a1760ec0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3278, y: 1934}
+  - name: FloorMap_160
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3264
+      y: 2024
+      width: 8
+      height: 8
+    spriteID: f274cd3cdc7f02e80800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3264, y: 2024}
+  - name: FloorMap_161
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3372
+      y: 2024
+      width: 4
+      height: 4
+    spriteID: 8ee00ae63f211c030800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3372, y: 2024}
+  - name: FloorMap_162
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3383
+      y: 2024
+      width: 6
+      height: 9
+    spriteID: 8f59d3af71604db50800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3383, y: 2024}
+  - name: FloorMap_163
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3242
+      y: 1806
+      width: 48
+      height: 124
+    spriteID: 23639f742989ed700800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3242, y: 1806}
+  - name: FloorMap_164
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3339
+      y: 1870
+      width: 15
+      height: 48
+    spriteID: 7289f0f2f3a5e0c30800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3339, y: 1870}
+  - name: FloorMap_165
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3382
+      y: 1806
+      width: 20
+      height: 64
+    spriteID: 52eeb5fe3fc7b20e0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3382, y: 1806}
+  - name: FloorMap_166
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3114
+      y: 1718
+      width: 96
+      height: 84
+    spriteID: 1bb14db74e009d9a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3114, y: 1718}
+  - name: FloorMap_167
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3242
+      y: 1656
+      width: 144
+      height: 146
+    spriteID: 802c0f937fc68ecf0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3242, y: 1656}
+  - name: FloorMap_168
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3114
+      y: 1578
+      width: 60
+      height: 80
+    spriteID: 974a9ffc98b9274a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3114, y: 1578}
+  - name: FloorMap_169
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3126
+      y: 1650
+      width: 24
+      height: 40
+    spriteID: ee50b8ca8efdaf5f0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3126, y: 1650}
+  - name: FloorMap_170
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3158
+      y: 1634
+      width: 60
+      height: 84
+    spriteID: 9deeb26f46870bf80800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3158, y: 1634}
+  - name: FloorMap_171
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3242
+      y: 1503
+      width: 144
+      height: 151
+    spriteID: bd088998e6406e2b0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3242, y: 1503}
+  - name: FloorMap_172
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3126
+      y: 1558
+      width: 16
+      height: 16
+    spriteID: fe375eabaedb3e200800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3126, y: 1558}
+  - name: FloorMap_173
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3158
+      y: 1562
+      width: 80
+      height: 76
+    spriteID: 60a96c7ea8e7da9a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3158, y: 1562}
+  - name: FloorMap_174
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3150
+      y: 1546
+      width: 20
+      height: 16
+    spriteID: b86f7bc6f909a8b10800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3150, y: 1546}
+  - name: FloorMap_175
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3194
+      y: 1534
+      width: 16
+      height: 24
+    spriteID: 726aee9454898f640800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3194, y: 1534}
+  - name: FloorMap_176
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3114
+      y: 1226
+      width: 260
+      height: 304
+    spriteID: 3ebe41e49d34ea400800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3114, y: 1226}
+  - name: FloorMap_177
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3246
+      y: 1356
+      width: 140
+      height: 106
+    spriteID: 6ce35d97c609059f0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3246, y: 1356}
+  - name: FloorMap_178
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3190
+      y: 1194
+      width: 40
+      height: 28
+    spriteID: 6e5c0b866f8c8e870800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3190, y: 1194}
+  - name: FloorMap_179
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3234
+      y: 1159
+      width: 94
+      height: 39
+    spriteID: 710b9a98da45c21e0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3234, y: 1159}
+  - name: FloorMap_180
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3314
+      y: 1186
+      width: 60
+      height: 40
+    spriteID: 6a964a9d8df056f40800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3314, y: 1186}
+  - name: FloorMap_181
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3354
+      y: 1154
+      width: 20
+      height: 20
+    spriteID: 48473330e06b38640800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3354, y: 1154}
+  - name: FloorMap_182
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3114
+      y: 1110
+      width: 48
+      height: 36
+    spriteID: f8ad2d2ca1db791a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3114, y: 1110}
+  - name: FloorMap_183
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3174
+      y: 1086
+      width: 48
+      height: 40
+    spriteID: 9aed516eb3ff7a3b0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3174, y: 1086}
+  - name: FloorMap_184
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3250
+      y: 1098
+      width: 24
+      height: 20
+    spriteID: 40923089b8de34600800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3250, y: 1098}
+  - name: FloorMap_185
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3278
+      y: 1110
+      width: 28
+      height: 28
+    spriteID: f562f57c5fb243d30800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3278, y: 1110}
+  - name: FloorMap_186
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3134
+      y: 1086
+      width: 20
+      height: 16
+    spriteID: bd813fd995616fe30800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3134, y: 1086}
+  - name: FloorMap_187
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3114
+      y: 938
+      width: 282
+      height: 144
+    spriteID: 2415988b2113f2d10800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3114, y: 938}
+  - name: FloorMap_188
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3114
+      y: 786
+      width: 282
+      height: 147
+    spriteID: 2ab81e42a7fe76700800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3114, y: 786}
+  - name: FloorMap_189
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3114
+      y: 634
+      width: 282
+      height: 148
+    spriteID: 31fc9e77b460ec570800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3114, y: 634}
+  - name: FloorMap_190
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3114
+      y: 483
+      width: 282
+      height: 147
+    spriteID: 7c778a1a593c33d60800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3114, y: 483}
+  - name: FloorMap_191
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3122
+      y: 394
+      width: 72
+      height: 72
+    spriteID: b99d2957abff33910800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3122, y: 394}
+  - name: FloorMap_192
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3210
+      y: 442
+      width: 56
+      height: 36
+    spriteID: 625d8cedba8d595c0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3210, y: 442}
+  - name: FloorMap_193
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3258
+      y: 422
+      width: 52
+      height: 28
+    spriteID: 7391f385c60bf4280800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3258, y: 422}
+  - name: FloorMap_194
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3174
+      y: 370
+      width: 36
+      height: 36
+    spriteID: e705a44a472060f20800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3174, y: 370}
+  - name: FloorMap_195
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3266
+      y: 347
+      width: 71
+      height: 67
+    spriteID: 5c55e64f837a83800800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3266, y: 347}
+  - name: FloorMap_196
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3302
+      y: 390
+      width: 20
+      height: 28
+    spriteID: a9e9d3337d5701500800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3302, y: 390}
+  - name: FloorMap_197
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3330
+      y: 378
+      width: 24
+      height: 28
+    spriteID: fc8951593939f3440800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3330, y: 378}
+  - name: FloorMap_198
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3114
+      y: 328
+      width: 44
+      height: 42
+    spriteID: ff4b0f31a21811690800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3114, y: 328}
+  - name: FloorMap_199
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3350
+      y: 358
+      width: 15
+      height: 20
+    spriteID: 818416315b0cddf30800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3350, y: 358}
+  - name: FloorMap_200
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3368
+      y: 346
+      width: 45
+      height: 36
+    spriteID: aebec4e99211b9530800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3368, y: 346}
+  - name: FloorMap_201
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3114
+      y: 166
+      width: 56
+      height: 52
+    spriteID: 3ca4a8d29d6ae4b10800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3114, y: 166}
+  - name: FloorMap_202
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3122
+      y: 206
+      width: 99
+      height: 108
+    spriteID: a12080dd5fc75a720800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3122, y: 206}
+  - name: FloorMap_203
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3214
+      y: 182
+      width: 200
+      height: 148
+    spriteID: 89e29bd9fd5483e10800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3214, y: 182}
+  - name: FloorMap_204
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3368
+      y: 160
+      width: 4
+      height: 4
+    spriteID: 1f466cec341c21690800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3368, y: 160}
+  - name: FloorMap_205
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3268
+      y: 148
+      width: 8
+      height: 4
+    spriteID: 8fca96b93af37b7a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3268, y: 148}
+  - name: FloorMap_206
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3435
+      y: 2
+      width: 314
+      height: 156
+    spriteID: 130b9530076603b50800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3435, y: 2}
+  - name: FloorMap_207
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3252
+      y: 144
+      width: 4
+      height: 4
+    spriteID: 08bff25288d0733a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3252, y: 144}
+  - name: FloorMap_208
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3332
+      y: 144
+      width: 4
+      height: 4
+    spriteID: 170b5288bc2ef8f90800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3332, y: 144}
+  - name: FloorMap_209
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3074
+      y: 98
+      width: 28
+      height: 24
+    spriteID: d2b1c5139ad0d9b30800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3074, y: 98}
+  - name: FloorMap_210
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3126
+      y: 6
+      width: 303
+      height: 136
+    spriteID: 522ee68add2bf5c70800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3126, y: 6}
+  - name: FloorMap_211
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3094
+      y: 70
+      width: 20
+      height: 20
+    spriteID: 9c3dd002497d15400800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3094, y: 70}
+  - name: FloorMap_212
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3018
+      y: 0
+      width: 88
+      height: 50
+    spriteID: 73b3047bb220928c0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3018, y: 0}
+  - name: FloorMap_213
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3115
+      y: 43
+      width: 6
+      height: 9
+    spriteID: 269f2f1abc45b64a0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3115, y: 43}
+  - name: FloorMap_214
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3123
+      y: 15
+      width: 10
+      height: 10
+    spriteID: 9391a2542c4a59650800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3123, y: 15}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 2048
+  documentSize: {x: 1400, y: 2341}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 4096
+  textureActualHeight: 8192
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: "\u89D2\u8272"
+    spriteName: "\u89D2\u8272"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1fc98ddc157f2485faf1dd0649dd4839
+    layerID: 1416
+    mosaicPosition: {x: 2461, y: 7083}
+  - name: "64\u77F3\u5934"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 1975
+    mosaicPosition: {x: 0, y: 0}
+  - name: 'meadow_1_stone1 '
+    spriteName: 'meadow_1_stone1 '
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 8371c53a7b34c43dd8e8b878db0584d3
+    layerID: 1974
+    mosaicPosition: {x: 3246, y: 3761}
+  - name: meadow_1_stone2
+    spriteName: meadow_1_stone2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 2e37d934eb6a44cb3ba3fb29368219a2
+    layerID: 1967
+    mosaicPosition: {x: 3246, y: 1937}
+  - name: meadow_1_stone3
+    spriteName: meadow_1_stone3
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 50cf4091ae7c3445baa268498f6ba062
+    layerID: 1960
+    mosaicPosition: {x: 3356, y: 3761}
+  - name: meadow_1_stone4
+    spriteName: meadow_1_stone4
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 5031388fc34664455ac036e3d819fd5c
+    layerID: 1956
+    mosaicPosition: {x: 3357, y: 3376}
+  - name: meadow_1_stone5
+    spriteName: meadow_1_stone5
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 63aa06d174ff947f4ba224bb33e701a5
+    layerID: 1951
+    mosaicPosition: {x: 3355, y: 3652}
+  - name: meadow_1_stone6
+    spriteName: meadow_1_stone6
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 99cda0cb131b4448682229a9325bae2c
+    layerID: 1944
+    mosaicPosition: {x: 3246, y: 4061}
+  - name: "\u6DFB\u52A0\u969C\u788D\u7269"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 2143
+    mosaicPosition: {x: 0, y: 0}
+  - name: meadow_1_obstacle20
+    spriteName: meadow_1_obstacle20
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 4c6ffe8b1e62b4a27af590b4c357f204
+    layerID: 2142
+    mosaicPosition: {x: 2680, y: 2740}
+  - name: meadow_1_obstacle19
+    spriteName: meadow_1_obstacle19
+    isGroup: 0
+    parentIndex: 8
+    spriteID: b2a82685f74ed4c9a825b99510847477
+    layerID: 2136
+    mosaicPosition: {x: 3246, y: 3269}
+  - name: meadow_1_obstacle18
+    spriteName: meadow_1_obstacle18
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 00f48f8fbcf3247ac97431f09448067c
+    layerID: 2130
+    mosaicPosition: {x: 3246, y: 2776}
+  - name: meadow_1_obstacle17
+    spriteName: meadow_1_obstacle17
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 06fe7485882d54f728930ea1e815f85c
+    layerID: 2124
+    mosaicPosition: {x: 2461, y: 7270}
+  - name: meadow_1_obstacle16
+    spriteName: meadow_1_obstacle16
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 9c94fbd00dc334cb08ea9d69ada81359
+    layerID: 2118
+    mosaicPosition: {x: 3246, y: 3652}
+  - name: meadow_1_obstacle15
+    spriteName: meadow_1_obstacle15
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 89e1eb783865e4870bad62df5d9c6542
+    layerID: 2108
+    mosaicPosition: {x: 3246, y: 3947}
+  - name: meadow_1_obstacle14
+    spriteName: meadow_1_obstacle14
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 77b6b221bfdbd43fda4fa985fcfa6158
+    layerID: 2099
+    mosaicPosition: {x: 2564, y: 8029}
+  - name: meadow_1_obstacle13
+    spriteName: meadow_1_obstacle13
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 639e742e65d324eeea7e9a712d79cb63
+    layerID: 2092
+    mosaicPosition: {x: 3117, y: 4}
+  - name: meadow_1_obstacle12
+    spriteName: meadow_1_obstacle12
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 0a58a89950f8a4fd094361782f0b4c3b
+    layerID: 2084
+    mosaicPosition: {x: 3362, y: 3518}
+  - name: meadow_1_obstacle11
+    spriteName: meadow_1_obstacle11
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 9f852172fdfde468cb6a6572d1cf9191
+    layerID: 2074
+    mosaicPosition: {x: 2658, y: 4066}
+  - name: meadow_1_obstacle10
+    spriteName: meadow_1_obstacle10
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 6a1a3e9d5298f47ee955fc23b3c3283f
+    layerID: 2068
+    mosaicPosition: {x: 3246, y: 2190}
+  - name: meadow_1_obstacle9
+    spriteName: meadow_1_obstacle9
+    isGroup: 0
+    parentIndex: 8
+    spriteID: b40d055c400db4008b99288791dbad0a
+    layerID: 2059
+    mosaicPosition: {x: 2658, y: 4309}
+  - name: meadow_1_obstacle8
+    spriteName: meadow_1_obstacle8
+    isGroup: 0
+    parentIndex: 8
+    spriteID: abb7f517f0de34bb986b96edebaf9bf6
+    layerID: 2052
+    mosaicPosition: {x: 3246, y: 3019}
+  - name: meadow_1_obstacle7
+    spriteName: meadow_1_obstacle7
+    isGroup: 0
+    parentIndex: 8
+    spriteID: d167105ed73ca4bd2b73e2c731c18d70
+    layerID: 2043
+    mosaicPosition: {x: 1218, y: 7960}
+  - name: meadow_1_obstacle6
+    spriteName: meadow_1_obstacle6
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 660bf0c2fc6a046bfb818aff5a4213aa
+    layerID: 2033
+    mosaicPosition: {x: 2614, y: 4393}
+  - name: meadow_1_obstacle5
+    spriteName: meadow_1_obstacle5
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 32d8626d957ee4e3db1bcde1d6a7af4f
+    layerID: 2021
+    mosaicPosition: {x: 2658, y: 3649}
+  - name: meadow_1_obstacle4
+    spriteName: meadow_1_obstacle4
+    isGroup: 0
+    parentIndex: 8
+    spriteID: e89e2301363ad4f90ab2d429d9790f72
+    layerID: 2010
+    mosaicPosition: {x: 3432, y: 4}
+  - name: meadow_1_obstacle3
+    spriteName: meadow_1_obstacle3
+    isGroup: 0
+    parentIndex: 8
+    spriteID: d216bc1df4a06425294b9728dfcf7d6a
+    layerID: 2001
+    mosaicPosition: {x: 2270, y: 6450}
+  - name: meadow_1_obstacle2
+    spriteName: meadow_1_obstacle2
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 8af77d4c88ff2486286cf67d8f72b70b
+    layerID: 1990
+    mosaicPosition: {x: 3117, y: 1357}
+  - name: meadow_1_obstacle1
+    spriteName: meadow_1_obstacle1
+    isGroup: 0
+    parentIndex: 8
+    spriteID: f16a32d6e09634819979b3738402664f
+    layerID: 1984
+    mosaicPosition: {x: 1950, y: 4755}
+  - name: "\u5468\u8FB9\u7684\u6811"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 978
+    mosaicPosition: {x: 0, y: 0}
+  - name: meadow4_botany5
+    spriteName: 
+    isGroup: 1
+    parentIndex: 29
+    spriteID: 00000000000000000000000000000000
+    layerID: 1300
+    mosaicPosition: {x: 0, y: 0}
+  - name: "\u56FE\u5C42 375"
+    spriteName: "\u56FE\u5C42 375"
+    isGroup: 0
+    parentIndex: 30
+    spriteID: b27890a3a3f874e2aa0d91f36aedb595
+    layerID: 1772
+    mosaicPosition: {x: 2084, y: 7328}
+  - name: "\u56FE\u5C42 269"
+    spriteName: "\u56FE\u5C42 269"
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 54fba9bab68214224b929f9b1884a9e0
+    layerID: 1299
+    mosaicPosition: {x: 3117, y: 333}
+  - name: "\u56FE\u5C42 268"
+    spriteName: "\u56FE\u5C42 268"
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 16bf2cce9cfdc4c50adb6c7f3d5c93a6
+    layerID: 1298
+    mosaicPosition: {x: 3117, y: 171}
+  - name: "\u56FE\u5C42 266"
+    spriteName: "\u56FE\u5C42 266"
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 0a798e641ef524e90bd2f74492bc27f4
+    layerID: 1296
+    mosaicPosition: {x: 2270, y: 6219}
+  - name: "\u56FE\u5C42 267"
+    spriteName: "\u56FE\u5C42 267"
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 066f608c2caa8492dba2c7a8d7c4051d
+    layerID: 1297
+    mosaicPosition: {x: 1412, y: 7599}
+  - name: meadow4_botany6
+    spriteName: 
+    isGroup: 1
+    parentIndex: 29
+    spriteID: 00000000000000000000000000000000
+    layerID: 1309
+    mosaicPosition: {x: 0, y: 0}
+  - name: "\u56FE\u5C42 273"
+    spriteName: "\u56FE\u5C42 273"
+    isGroup: 0
+    parentIndex: 36
+    spriteID: f51469150446640b2bb62b06d857fbf1
+    layerID: 1307
+    mosaicPosition: {x: 1412, y: 6725}
+  - name: "\u56FE\u5C42 272"
+    spriteName: "\u56FE\u5C42 272"
+    isGroup: 0
+    parentIndex: 36
+    spriteID: 58baf677b26114b44a1bb7d64a2d3ec6
+    layerID: 1304
+    mosaicPosition: {x: 2270, y: 5941}
+  - name: "\u56FE\u5C42 271"
+    spriteName: "\u56FE\u5C42 271"
+    isGroup: 0
+    parentIndex: 36
+    spriteID: e8a9c7dfec9b74086b445f787eb4c8dd
+    layerID: 1303
+    mosaicPosition: {x: 1412, y: 7302}
+  - name: meadow4_botany4
+    spriteName: 
+    isGroup: 1
+    parentIndex: 29
+    spriteID: 00000000000000000000000000000000
+    layerID: 1290
+    mosaicPosition: {x: 0, y: 0}
+  - name: "\u56FE\u5C42 374"
+    spriteName: "\u56FE\u5C42 374"
+    isGroup: 0
+    parentIndex: 40
+    spriteID: c8f251243dad2451b8d93a8a31cc41d3
+    layerID: 1771
+    mosaicPosition: {x: 1950, y: 3985}
+  - name: "\u56FE\u5C42 372"
+    spriteName: "\u56FE\u5C42 372"
+    isGroup: 0
+    parentIndex: 40
+    spriteID: fda04667eaaab4aa9a3f211658f3af17
+    layerID: 1769
+    mosaicPosition: {x: 462, y: 7791}
+  - name: "\u56FE\u5C42 370"
+    spriteName: "\u56FE\u5C42 370"
+    isGroup: 0
+    parentIndex: 40
+    spriteID: f0c70d99ed68e4a4990c9e6abe23908f
+    layerID: 1766
+    mosaicPosition: {x: 1412, y: 6398}
+  - name: "\u56FE\u5C42 371"
+    spriteName: "\u56FE\u5C42 371"
+    isGroup: 0
+    parentIndex: 40
+    spriteID: c1e5231531fb5460eaf8215b3ce01bd7
+    layerID: 1767
+    mosaicPosition: {x: 1412, y: 6058}
+  - name: "\u56FE\u5C42 373"
+    spriteName: "\u56FE\u5C42 373"
+    isGroup: 0
+    parentIndex: 40
+    spriteID: 844cb829ac1a7429a9fafb70b70fc978
+    layerID: 1770
+    mosaicPosition: {x: 2270, y: 7369}
+  - name: meadow4_botany3
+    spriteName: 
+    isGroup: 1
+    parentIndex: 29
+    spriteID: 00000000000000000000000000000000
+    layerID: 1284
+    mosaicPosition: {x: 0, y: 0}
+  - name: "\u56FE\u5C42 369"
+    spriteName: "\u56FE\u5C42 369"
+    isGroup: 0
+    parentIndex: 46
+    spriteID: b952c5a4557504c5dbfaae45a075a789
+    layerID: 1765
+    mosaicPosition: {x: 2567, y: 4963}
+  - name: "\u56FE\u5C42 368"
+    spriteName: "\u56FE\u5C42 368"
+    isGroup: 0
+    parentIndex: 46
+    spriteID: 30772f6f3f2eb400a870c75e6917aae6
+    layerID: 1764
+    mosaicPosition: {x: 2270, y: 7567}
+  - name: "\u56FE\u5C42 260"
+    spriteName: "\u56FE\u5C42 260"
+    isGroup: 0
+    parentIndex: 46
+    spriteID: 12727096b8cd74e6ab4194f5a8115a91
+    layerID: 1287
+    mosaicPosition: {x: 2270, y: 4963}
+  - name: "\u56FE\u5C42 258"
+    spriteName: "\u56FE\u5C42 258"
+    isGroup: 0
+    parentIndex: 46
+    spriteID: cfc2e42a73d91466d9578b4afa6c687a
+    layerID: 1283
+    mosaicPosition: {x: 1412, y: 7851}
+  - name: "\u56FE\u5C42 257"
+    spriteName: "\u56FE\u5C42 257"
+    isGroup: 0
+    parentIndex: 46
+    spriteID: b6b7e9915d8a442a2a017a771ef7101f
+    layerID: 1282
+    mosaicPosition: {x: 1184, y: 7051}
+  - name: meadow4_botany3
+    spriteName: meadow4_botany3
+    isGroup: 0
+    parentIndex: 46
+    spriteID: 0c9b7d5047bfc46ba90d68b1f2b1dcb2
+    layerID: 972
+    mosaicPosition: {x: 2270, y: 4660}
+  - name: meadow4_botany2
+    spriteName: 
+    isGroup: 1
+    parentIndex: 29
+    spriteID: 00000000000000000000000000000000
+    layerID: 1512
+    mosaicPosition: {x: 0, y: 0}
+  - name: "\u56FE\u5C42 367"
+    spriteName: "\u56FE\u5C42 367"
+    isGroup: 0
+    parentIndex: 53
+    spriteID: 3d62553f4162c42ac8331044a73898f5
+    layerID: 1763
+    mosaicPosition: {x: 1950, y: 4363}
+  - name: "\u56FE\u5C42 366"
+    spriteName: "\u56FE\u5C42 366"
+    isGroup: 0
+    parentIndex: 53
+    spriteID: f3600f3d2d9dd4c8ca636f4f85b40244
+    layerID: 1760
+    mosaicPosition: {x: 862, y: 7051}
+  - name: "\u56FE\u5C42 254"
+    spriteName: "\u56FE\u5C42 254"
+    isGroup: 0
+    parentIndex: 53
+    spriteID: 9dc0d5d1d79dc435a8d4f756e6fcfff5
+    layerID: 1510
+    mosaicPosition: {x: 1676, y: 7153}
+  - name: "\u56FE\u5C42 249 \u62F7\u8D1D"
+    spriteName: "\u56FE\u5C42 249 \u62F7\u8D1D"
+    isGroup: 0
+    parentIndex: 53
+    spriteID: 0e5bf1d4f027c432dacc3911a717aeeb
+    layerID: 1513
+    mosaicPosition: {x: 1412, y: 5237}
+  - name: "\u56FE\u5C42 250"
+    spriteName: "\u56FE\u5C42 250"
+    isGroup: 0
+    parentIndex: 53
+    spriteID: 3fde0cb35e9534d25b846dbb4d18526c
+    layerID: 1507
+    mosaicPosition: {x: 1412, y: 5645}
+  - name: 'meadow4_botany1 '
+    spriteName: 
+    isGroup: 1
+    parentIndex: 29
+    spriteID: 00000000000000000000000000000000
+    layerID: 1266
+    mosaicPosition: {x: 0, y: 0}
+  - name: "\u56FE\u5C42 248"
+    spriteName: "\u56FE\u5C42 248"
+    isGroup: 0
+    parentIndex: 59
+    spriteID: 18d377b863f014c248c26613c73e8c5c
+    layerID: 1271
+    mosaicPosition: {x: 2685, y: 2634}
+  - name: "\u56FE\u5C42 365"
+    spriteName: "\u56FE\u5C42 365"
+    isGroup: 0
+    parentIndex: 59
+    spriteID: 65e2d9ca2e22d47cfb85faf1daf2f960
+    layerID: 1759
+    mosaicPosition: {x: 2564, y: 6415}
+  - name: "\u56FE\u5C42 364"
+    spriteName: "\u56FE\u5C42 364"
+    isGroup: 0
+    parentIndex: 59
+    spriteID: 1a76c86aaeb69461393dc29c7a2710cb
+    layerID: 1758
+    mosaicPosition: {x: 2820, y: 4}
+  - name: "\u56FE\u5C42 245"
+    spriteName: "\u56FE\u5C42 245"
+    isGroup: 0
+    parentIndex: 59
+    spriteID: 2dffc9cdb555e453eab23e8d46606f49
+    layerID: 1268
+    mosaicPosition: {x: 2270, y: 4393}
+  - name: "\u56FE\u5C42 239"
+    spriteName: "\u56FE\u5C42 239"
+    isGroup: 0
+    parentIndex: 59
+    spriteID: 0c4050849cdb74a56977efdfafa527a3
+    layerID: 1257
+    mosaicPosition: {x: 2535, y: 5218}
+  - name: "\u56FE\u5C42 240 \u62F7\u8D1D"
+    spriteName: "\u56FE\u5C42 240 \u62F7\u8D1D"
+    isGroup: 0
+    parentIndex: 59
+    spriteID: 484d301f6040b4db6aa51f73cc4e326f
+    layerID: 1259
+    mosaicPosition: {x: 2270, y: 5218}
+  - name: "\u5751"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 961
+    mosaicPosition: {x: 0, y: 0}
+  - name: meadow_1_hole1
+    spriteName: 
+    isGroup: 1
+    parentIndex: 66
+    spriteID: 00000000000000000000000000000000
+    layerID: 1196
+    mosaicPosition: {x: 0, y: 0}
+  - name: "\u56FE\u5C42 200"
+    spriteName: "\u56FE\u5C42 200"
+    isGroup: 0
+    parentIndex: 67
+    spriteID: f73a95b6e5bac4810bee8e17eddb9d71
+    layerID: 1198
+    mosaicPosition: {x: 2564, y: 7922}
+  - name: "\u56FE\u5C42 199"
+    spriteName: "\u56FE\u5C42 199"
+    isGroup: 0
+    parentIndex: 67
+    spriteID: e84ebe9ba7b5e45d0916cb27139b747d
+    layerID: 1195
+    mosaicPosition: {x: 2148, y: 5082}
+  - name: "\u56FE\u5C42 191"
+    spriteName: "\u56FE\u5C42 191"
+    isGroup: 0
+    parentIndex: 67
+    spriteID: 16b7d9a1570c946a499ddb3e40760d5d
+    layerID: 1187
+    mosaicPosition: {x: 3246, y: 2374}
+  - name: "\u56FE\u5C42 363"
+    spriteName: "\u56FE\u5C42 363"
+    isGroup: 0
+    parentIndex: 67
+    spriteID: f8b8224a940b94cd28fd96ab0ea57779
+    layerID: 1757
+    mosaicPosition: {x: 2564, y: 6248}
+  - name: "\u56FE\u5C42 195"
+    spriteName: "\u56FE\u5C42 195"
+    isGroup: 0
+    parentIndex: 67
+    spriteID: dbd43c2686fdb44c9aab9b52de9dae0d
+    layerID: 1191
+    mosaicPosition: {x: 3246, y: 2074}
+  - name: "\u56FE\u5C42 192"
+    spriteName: "\u56FE\u5C42 192"
+    isGroup: 0
+    parentIndex: 67
+    spriteID: d46ea470c815c43e88565a94ca8e2f29
+    layerID: 1188
+    mosaicPosition: {x: 3117, y: 1232}
+  - name: "\u56FE\u5C42 194"
+    spriteName: "\u56FE\u5C42 194"
+    isGroup: 0
+    parentIndex: 67
+    spriteID: 6e91e8016f11c42fab1586f046269d9a
+    layerID: 1190
+    mosaicPosition: {x: 2564, y: 7825}
+  - name: "\u56FE\u5C42 193"
+    spriteName: "\u56FE\u5C42 193"
+    isGroup: 0
+    parentIndex: 67
+    spriteID: 9e654a0fb4d674179bd0dcc7f05908d1
+    layerID: 1189
+    mosaicPosition: {x: 2564, y: 7404}
+  - name: meadow_1_hole2
+    spriteName: 
+    isGroup: 1
+    parentIndex: 66
+    spriteID: 00000000000000000000000000000000
+    layerID: 1211
+    mosaicPosition: {x: 0, y: 0}
+  - name: "\u56FE\u5C42 212"
+    spriteName: "\u56FE\u5C42 212"
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 44debce9b773e4320ac6be1217b86a17
+    layerID: 1210
+    mosaicPosition: {x: 3246, y: 2632}
+  - name: "\u56FE\u5C42 211"
+    spriteName: "\u56FE\u5C42 211"
+    isGroup: 0
+    parentIndex: 76
+    spriteID: ae0cb3522a6294eb4b5704888cf80c03
+    layerID: 1209
+    mosaicPosition: {x: 2091, y: 7835}
+  - name: "\u56FE\u5C42 205"
+    spriteName: "\u56FE\u5C42 205"
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 7c8f23bf70cd84f8ab0520d85730a5e9
+    layerID: 1203
+    mosaicPosition: {x: 3246, y: 3376}
+  - name: "\u56FE\u5C42 207"
+    spriteName: "\u56FE\u5C42 207"
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 77e2630f2fb4c44ad910479b5cd020f7
+    layerID: 1205
+    mosaicPosition: {x: 2713, y: 8029}
+  - name: "\u56FE\u5C42 204"
+    spriteName: "\u56FE\u5C42 204"
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 115f9945c76d74e5db01c9171b27b0ac
+    layerID: 1202
+    mosaicPosition: {x: 3246, y: 2890}
+  - name: "\u56FE\u5C42 206"
+    spriteName: "\u56FE\u5C42 206"
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 2a52a467d430e46219b1205ca0575092
+    layerID: 1204
+    mosaicPosition: {x: 1950, y: 5082}
+  - name: "\u56FE\u5C42 203"
+    spriteName: "\u56FE\u5C42 203"
+    isGroup: 0
+    parentIndex: 76
+    spriteID: cff9cac16bfab4583b26cf943181dd0c
+    layerID: 1201
+    mosaicPosition: {x: 3246, y: 3140}
+  - name: "\u690D\u7269"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 979
+    mosaicPosition: {x: 0, y: 0}
+  - name: meadow_2_grass3
+    spriteName: meadow_2_grass3
+    isGroup: 0
+    parentIndex: 84
+    spriteID: a1ed1ae84c5fc4004bd98938a1b94dc8
+    layerID: 957
+    mosaicPosition: {x: 2658, y: 3833}
+  - name: meadow_2_grass2
+    spriteName: meadow_2_grass2
+    isGroup: 0
+    parentIndex: 84
+    spriteID: 2ef5d5ea4993d400484c6252a509246f
+    layerID: 956
+    mosaicPosition: {x: 2071, y: 5082}
+  - name: meadow_2_grass1
+    spriteName: meadow_2_grass1
+    isGroup: 0
+    parentIndex: 84
+    spriteID: 87b754d227ade4d2a8e9668aa5260143
+    layerID: 955
+    mosaicPosition: {x: 2732, y: 3833}
+  - name: meadow_2_tree5
+    spriteName: 
+    isGroup: 1
+    parentIndex: 84
+    spriteID: 00000000000000000000000000000000
+    layerID: 1756
+    mosaicPosition: {x: 0, y: 0}
+  - name: "\u56FE\u5C42 357"
+    spriteName: "\u56FE\u5C42 357"
+    isGroup: 0
+    parentIndex: 88
+    spriteID: 97837f7ae8df045d0a218196f86d025b
+    layerID: 1754
+    mosaicPosition: {x: 2564, y: 7253}
+  - name: "\u56FE\u5C42 356"
+    spriteName: "\u56FE\u5C42 356"
+    isGroup: 0
+    parentIndex: 88
+    spriteID: f69d690e420cd4ca3bc074f7b5256c64
+    layerID: 1753
+    mosaicPosition: {x: 2564, y: 7534}
+  - name: "\u56FE\u5C42 238"
+    spriteName: "\u56FE\u5C42 238"
+    isGroup: 0
+    parentIndex: 88
+    spriteID: 5f3cc7fb1aa5c41fa8700a7c8c6f9cb1
+    layerID: 1752
+    mosaicPosition: {x: 2564, y: 6594}
+  - name: "\u56FE\u5C42 236"
+    spriteName: "\u56FE\u5C42 236"
+    isGroup: 0
+    parentIndex: 88
+    spriteID: f279f5ed2c59043499e4a66f66219277
+    layerID: 1751
+    mosaicPosition: {x: 3246, y: 1657}
+  - name: "\u56FE\u5C42 76"
+    spriteName: "\u56FE\u5C42 76"
+    isGroup: 0
+    parentIndex: 88
+    spriteID: 9d78b42dbcd4f4192898d9bce0653bea
+    layerID: 1750
+    mosaicPosition: {x: 3246, y: 1504}
+  - name: meadow_2_tree4
+    spriteName: 
+    isGroup: 1
+    parentIndex: 84
+    spriteID: 00000000000000000000000000000000
+    layerID: 1232
+    mosaicPosition: {x: 0, y: 0}
+  - name: "\u56FE\u5C42 362"
+    spriteName: "\u56FE\u5C42 362"
+    isGroup: 0
+    parentIndex: 94
+    spriteID: 3125940f7bb3a4952b1fbfcac6c168f7
+    layerID: 1748
+    mosaicPosition: {x: 2084, y: 7153}
+  - name: "\u56FE\u5C42 229"
+    spriteName: "\u56FE\u5C42 229"
+    isGroup: 0
+    parentIndex: 94
+    spriteID: c99b06428b66a44a094c305e321d371c
+    layerID: 1235
+    mosaicPosition: {x: 2064, y: 7936}
+  - name: "\u56FE\u5C42 225"
+    spriteName: "\u56FE\u5C42 225"
+    isGroup: 0
+    parentIndex: 94
+    spriteID: 34df62761f47d43598042ab5da42f0bc
+    layerID: 1229
+    mosaicPosition: {x: 2685, y: 2353}
+  - name: "\u56FE\u5C42 226"
+    spriteName: "\u56FE\u5C42 226"
+    isGroup: 0
+    parentIndex: 94
+    spriteID: e542b0b90c96d41058f5b7a24843d629
+    layerID: 1230
+    mosaicPosition: {x: 2091, y: 7549}
+  - name: "\u56FE\u5C42 227"
+    spriteName: "\u56FE\u5C42 227"
+    isGroup: 0
+    parentIndex: 94
+    spriteID: 8b19998f29b744cf3a9b8cc28efd02f8
+    layerID: 1231
+    mosaicPosition: {x: 2270, y: 7083}
+  - name: meadow_2_tree3
+    spriteName: 
+    isGroup: 1
+    parentIndex: 84
+    spriteID: 00000000000000000000000000000000
+    layerID: 1245
+    mosaicPosition: {x: 0, y: 0}
+  - name: "\u56FE\u5C42 361"
+    spriteName: "\u56FE\u5C42 361"
+    isGroup: 0
+    parentIndex: 100
+    spriteID: 57c463deffa854d3abe9914bd1657b2c
+    layerID: 1747
+    mosaicPosition: {x: 3246, y: 2486}
+  - name: "\u56FE\u5C42 360"
+    spriteName: "\u56FE\u5C42 360"
+    isGroup: 0
+    parentIndex: 100
+    spriteID: c42e5c9bd001249679407971c0bed06e
+    layerID: 1746
+    mosaicPosition: {x: 2564, y: 7092}
+  - name: "\u56FE\u5C42 359"
+    spriteName: "\u56FE\u5C42 359"
+    isGroup: 0
+    parentIndex: 100
+    spriteID: d34a85ed34d0942c8948b13896db115b
+    layerID: 1745
+    mosaicPosition: {x: 2270, y: 7770}
+  - name: "\u56FE\u5C42 232"
+    spriteName: "\u56FE\u5C42 232"
+    isGroup: 0
+    parentIndex: 100
+    spriteID: 5e84ea067ab5f40c3b2e40cd93b87ab3
+    layerID: 1238
+    mosaicPosition: {x: 2564, y: 7675}
+  - name: "\u56FE\u5C42 231"
+    spriteName: "\u56FE\u5C42 231"
+    isGroup: 0
+    parentIndex: 100
+    spriteID: 69a6ccd6f258941fbbb273b61493e772
+    layerID: 1237
+    mosaicPosition: {x: 2564, y: 6759}
+  - name: meadow_2_tree2
+    spriteName: 
+    isGroup: 1
+    parentIndex: 84
+    spriteID: 00000000000000000000000000000000
+    layerID: 1249
+    mosaicPosition: {x: 0, y: 0}
+  - name: "\u56FE\u5C42 376"
+    spriteName: "\u56FE\u5C42 376"
+    isGroup: 0
+    parentIndex: 106
+    spriteID: bd127f799ef7247a9b2370cecc2775f8
+    layerID: 1773
+    mosaicPosition: {x: 2610, y: 5498}
+  - name: "\u56FE\u5C42 235"
+    spriteName: "\u56FE\u5C42 235"
+    isGroup: 0
+    parentIndex: 106
+    spriteID: 1a36d18108c7b42b8af74f55b633c10b
+    layerID: 1248
+    mosaicPosition: {x: 3117, y: 1538}
+  - name: "\u56FE\u5C42 234"
+    spriteName: "\u56FE\u5C42 234"
+    isGroup: 0
+    parentIndex: 106
+    spriteID: 9f82b26994e564fcf8301fd9353b6eb9
+    layerID: 1247
+    mosaicPosition: {x: 2687, y: 3388}
+  - name: "\u56FE\u5C42 96"
+    spriteName: "\u56FE\u5C42 96"
+    isGroup: 0
+    parentIndex: 106
+    spriteID: 050f4fe14cbd94aeeb9fe4045fa53bab
+    layerID: 997
+    mosaicPosition: {x: 2687, y: 3127}
+  - name: meadow_2_tree1
+    spriteName: 
+    isGroup: 1
+    parentIndex: 84
+    spriteID: 00000000000000000000000000000000
+    layerID: 1251
+    mosaicPosition: {x: 0, y: 0}
+  - name: "\u56FE\u5C42 358"
+    spriteName: "\u56FE\u5C42 358"
+    isGroup: 0
+    parentIndex: 111
+    spriteID: 75e9ab65e7b724530b5a266705fe4e2c
+    layerID: 1744
+    mosaicPosition: {x: 3246, y: 1806}
+  - name: "\u56FE\u5C42 357"
+    spriteName: "\u56FE\u5C42 357_1"
+    isGroup: 0
+    parentIndex: 111
+    spriteID: 48871285dd7ea43d7abcbbe433ed8f20
+    layerID: 1743
+    mosaicPosition: {x: 2564, y: 5919}
+  - name: "\u56FE\u5C42 356"
+    spriteName: "\u56FE\u5C42 356_1"
+    isGroup: 0
+    parentIndex: 111
+    spriteID: 16c99e4c1ccae40099baaa61d8b4b250
+    layerID: 1742
+    mosaicPosition: {x: 2564, y: 6936}
+  - name: "\u56FE\u5C42 238"
+    spriteName: "\u56FE\u5C42 238_1"
+    isGroup: 0
+    parentIndex: 111
+    spriteID: 9c2f48bd0aae349008cd84cf4f67b5cd
+    layerID: 1255
+    mosaicPosition: {x: 2820, y: 208}
+  - name: "\u56FE\u5C42 236"
+    spriteName: "\u56FE\u5C42 236_1"
+    isGroup: 0
+    parentIndex: 111
+    spriteID: e2d4e888c75fa4c828ca66562948308c
+    layerID: 1253
+    mosaicPosition: {x: 2658, y: 4145}
+  - name: "\u56FE\u5C42 76"
+    spriteName: "\u56FE\u5C42 76_1"
+    isGroup: 0
+    parentIndex: 111
+    spriteID: 7aa47cdcb465a4911986da5de092ffa2
+    layerID: 932
+    mosaicPosition: {x: 2658, y: 3897}
+  - name: "\u77F3\u5934"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 1937
+    mosaicPosition: {x: 0, y: 0}
+  - name: meadow_2_stone1
+    spriteName: meadow_2_stone1
+    isGroup: 0
+    parentIndex: 118
+    spriteID: b6852eaeb3fae49f2a55f1d370684e43
+    layerID: 1936
+    mosaicPosition: {x: 3246, y: 1357}
+  - name: meadow_2_stone2
+    spriteName: meadow_2_stone2
+    isGroup: 0
+    parentIndex: 118
+    spriteID: bfabafb81e9a949e99e41999e90cc8a0
+    layerID: 1928
+    mosaicPosition: {x: 3117, y: 1722}
+  - name: meadow_2_stone3
+    spriteName: meadow_2_stone3
+    isGroup: 0
+    parentIndex: 118
+    spriteID: e1ff8ec889c8d4bafab8790d5b453785
+    layerID: 1920
+    mosaicPosition: {x: 3246, y: 3865}
+  - name: meadow_2_stone4
+    spriteName: meadow_2_stone4
+    isGroup: 0
+    parentIndex: 118
+    spriteID: 9c49436e036f848d7bb6bb95d30bd710
+    layerID: 1912
+    mosaicPosition: {x: 2541, y: 4660}
+  - name: meadow_2_stone5
+    spriteName: meadow_2_stone5
+    isGroup: 0
+    parentIndex: 118
+    spriteID: 6984c116af80c40728e885da8992108f
+    layerID: 1903
+    mosaicPosition: {x: 2270, y: 5498}
+  - name: meadow_2_stone6
+    spriteName: meadow_2_stone6
+    isGroup: 0
+    parentIndex: 118
+    spriteID: f1db5faf03be84bc3aba1a3bec3fad16
+    layerID: 1894
+    mosaicPosition: {x: 2270, y: 5715}
+  - name: meadow_2_stone7
+    spriteName: meadow_2_stone7
+    isGroup: 0
+    parentIndex: 118
+    spriteID: 217a5097483074e15911d87b8b1bd24f
+    layerID: 1887
+    mosaicPosition: {x: 1412, y: 7014}
+  - name: meadow_2_stone8
+    spriteName: meadow_2_stone8
+    isGroup: 0
+    parentIndex: 118
+    spriteID: b929cfc8593664e50bfafd03c35ba2ca
+    layerID: 1875
+    mosaicPosition: {x: 862, y: 7960}
+  - name: meadow_2_stone9
+    spriteName: meadow_2_stone9
+    isGroup: 0
+    parentIndex: 118
+    spriteID: 4bc732bcf23174b2c88dbba4ee767352
+    layerID: 1866
+    mosaicPosition: {x: 2270, y: 2740}
+  - name: meadow_2_stone10
+    spriteName: meadow_2_stone10
+    isGroup: 0
+    parentIndex: 118
+    spriteID: dfa201aea80b14c868ac80cf965aef9f
+    layerID: 1859
+    mosaicPosition: {x: 4, y: 7791}
+  - name: "\u5730\u8868"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 1829
+    mosaicPosition: {x: 0, y: 0}
+  - name: meadow_shading14
+    spriteName: meadow_shading14
+    isGroup: 0
+    parentIndex: 129
+    spriteID: 31c7440575b07418890de3c93f79fa85
+    layerID: 1828
+    mosaicPosition: {x: 2564, y: 6086}
+  - name: meadow_shading13
+    spriteName: meadow_shading13
+    isGroup: 0
+    parentIndex: 129
+    spriteID: 21096e40b34564469963520f5b6d5f5b
+    layerID: 1820
+    mosaicPosition: {x: 2270, y: 6671}
+  - name: meadow_shading12
+    spriteName: meadow_shading12
+    isGroup: 0
+    parentIndex: 129
+    spriteID: 0d52e3c8d4f9749b9b06e7115870b7fa
+    layerID: 1811
+    mosaicPosition: {x: 2270, y: 6867}
+  - name: meadow_shading11
+    spriteName: meadow_shading11
+    isGroup: 0
+    parentIndex: 129
+    spriteID: 4c113469b35cc4c1fa34f43bc74c92e2
+    layerID: 1803
+    mosaicPosition: {x: 2820, y: 391}
+  - name: meadow_shading10
+    spriteName: meadow_shading10
+    isGroup: 0
+    parentIndex: 129
+    spriteID: 58dbbb4b4b62c46518562b4193201b8b
+    layerID: 1802
+    mosaicPosition: {x: 3117, y: 1089}
+  - name: meadow_shading9
+    spriteName: meadow_shading9
+    isGroup: 0
+    parentIndex: 129
+    spriteID: 1c2c71255faeb46698813c3640863091
+    layerID: 1801
+    mosaicPosition: {x: 3246, y: 3518}
+  - name: meadow_shading8
+    spriteName: meadow_shading8
+    isGroup: 0
+    parentIndex: 129
+    spriteID: eed3cf4c8d7b146f58fde0cd7565d4bd
+    layerID: 1795
+    mosaicPosition: {x: 2270, y: 7973}
+  - name: meadow_shading7
+    spriteName: meadow_shading7
+    isGroup: 0
+    parentIndex: 129
+    spriteID: 32989060fd1dc41d99dca960f9ded3f8
+    layerID: 1788
+    mosaicPosition: {x: 2564, y: 5715}
+  - name: "meadow_shading6 \u62F7\u8D1D"
+    spriteName: "meadow_shading6 \u62F7\u8D1D"
+    isGroup: 0
+    parentIndex: 129
+    spriteID: ed9ed7a1868a94a81b30e118ea03177b
+    layerID: 1840
+    mosaicPosition: {x: 1676, y: 6739}
+  - name: meadow_shading6
+    spriteName: meadow_shading6
+    isGroup: 0
+    parentIndex: 129
+    spriteID: a7c0ad96a15c94985a5327eff3a27edb
+    layerID: 1781
+    mosaicPosition: {x: 1676, y: 5160}
+  - name: "meadow_shading5 \u62F7\u8D1D"
+    spriteName: "meadow_shading5 \u62F7\u8D1D"
+    isGroup: 0
+    parentIndex: 129
+    spriteID: 30a8e2d533be148cc801e4afabfcc8aa
+    layerID: 1839
+    mosaicPosition: {x: 1676, y: 7549}
+  - name: meadow_shading5
+    spriteName: meadow_shading5
+    isGroup: 0
+    parentIndex: 129
+    spriteID: 0dfb51e12998c4fc2a5a1be4a45fdd6b
+    layerID: 1780
+    mosaicPosition: {x: 2270, y: 2353}
+  - name: "meadow_shading4 \u62F7\u8D1D 2"
+    spriteName: "meadow_shading4 \u62F7\u8D1D 2"
+    isGroup: 0
+    parentIndex: 129
+    spriteID: 6ec58a0d64be64a79b093a5bebad2ce6
+    layerID: 1838
+    mosaicPosition: {x: 862, y: 7424}
+  - name: "meadow_shading4 \u62F7\u8D1D"
+    spriteName: "meadow_shading4 \u62F7\u8D1D"
+    isGroup: 0
+    parentIndex: 129
+    spriteID: b1dea3846da934e9d9b39ec320d3b480
+    layerID: 1837
+    mosaicPosition: {x: 1676, y: 5667}
+  - name: meadow_shading4
+    spriteName: meadow_shading4
+    isGroup: 0
+    parentIndex: 129
+    spriteID: d61261f243378439aa2a6e587e468f81
+    layerID: 1779
+    mosaicPosition: {x: 1676, y: 6203}
+  - name: "meadow_shading3 \u62F7\u8D1D 3"
+    spriteName: "meadow_shading3 \u62F7\u8D1D 3"
+    isGroup: 0
+    parentIndex: 129
+    spriteID: bdbc2d81892ef48ecad37a93302a53a8
+    layerID: 1836
+    mosaicPosition: {x: 3117, y: 485}
+  - name: "meadow_shading3 \u62F7\u8D1D 2"
+    spriteName: "meadow_shading3 \u62F7\u8D1D 2"
+    isGroup: 0
+    parentIndex: 129
+    spriteID: a03fdb25edd1b4721ad76fa2a78e5ef2
+    layerID: 1835
+    mosaicPosition: {x: 3117, y: 636}
+  - name: "meadow_shading3 \u62F7\u8D1D"
+    spriteName: "meadow_shading3 \u62F7\u8D1D"
+    isGroup: 0
+    parentIndex: 129
+    spriteID: b1730d301410f43108db1a1f455db8b6
+    layerID: 1834
+    mosaicPosition: {x: 3117, y: 787}
+  - name: meadow_shading3
+    spriteName: meadow_shading3
+    isGroup: 0
+    parentIndex: 129
+    spriteID: 4cc9065d0383c4ef8bcaf5a60750ff22
+    layerID: 1778
+    mosaicPosition: {x: 3117, y: 938}
+  - name: "meadow_shading2 \u62F7\u8D1D 3"
+    spriteName: "meadow_shading2 \u62F7\u8D1D 3"
+    isGroup: 0
+    parentIndex: 129
+    spriteID: 68e1ec2fc935e403cb48e90d081d37cf
+    layerID: 1833
+    mosaicPosition: {x: 1676, y: 7936}
+  - name: "meadow_shading2 \u62F7\u8D1D 2"
+    spriteName: "meadow_shading2 \u62F7\u8D1D 2"
+    isGroup: 0
+    parentIndex: 129
+    spriteID: bcbe0b247b67342758234902a871c5f8
+    layerID: 1832
+    mosaicPosition: {x: 2270, y: 3649}
+  - name: "meadow_shading2 \u62F7\u8D1D"
+    spriteName: "meadow_shading2 \u62F7\u8D1D"
+    isGroup: 0
+    parentIndex: 129
+    spriteID: 27811067bb6b04d4a8a681cd8425fcad
+    layerID: 1831
+    mosaicPosition: {x: 2270, y: 3897}
+  - name: meadow_shading2
+    spriteName: meadow_shading2
+    isGroup: 0
+    parentIndex: 129
+    spriteID: 588feaa2a8616480a88e8c33ff6f9477
+    layerID: 1777
+    mosaicPosition: {x: 2270, y: 4145}
+  - name: "meadow_shading1 \u62F7\u8D1D"
+    spriteName: "meadow_shading1 \u62F7\u8D1D"
+    isGroup: 0
+    parentIndex: 129
+    spriteID: 0d7fb9853822c4a038a28c4e20fc26b7
+    layerID: 1830
+    mosaicPosition: {x: 2270, y: 3127}
+  - name: meadow_shading1
+    spriteName: meadow_shading1
+    isGroup: 0
+    parentIndex: 129
+    spriteID: 78738a4e603cf44308940185630b66b6
+    layerID: 1776
+    mosaicPosition: {x: 2270, y: 3388}
+  - name: "\u56DB\u5468"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 1344
+    mosaicPosition: {x: 0, y: 0}
+  - name: meadow_shading001
+    spriteName: meadow_shading001
+    isGroup: 0
+    parentIndex: 155
+    spriteID: 9d9658f0a5aeb4d448f73041fd812f78
+    layerID: 1340
+    mosaicPosition: {x: 4, y: 7424}
+  - name: meadow_shading002
+    spriteName: meadow_shading002
+    isGroup: 0
+    parentIndex: 155
+    spriteID: 6628f552994714da9be19405765976b1
+    layerID: 1341
+    mosaicPosition: {x: 4, y: 7051}
+  - name: meadow_shading003
+    spriteName: meadow_shading003
+    isGroup: 0
+    parentIndex: 155
+    spriteID: bbf8191327666454e8b07326c9aee096
+    layerID: 1342
+    mosaicPosition: {x: 1412, y: 3985}
+  - name: meadow_shading004
+    spriteName: meadow_shading004
+    isGroup: 0
+    parentIndex: 155
+    spriteID: 03c60f7e540a84c1fbbb484f97c4d014
+    layerID: 1343
+    mosaicPosition: {x: 1676, y: 3985}
+  - name: 1
+    spriteName: 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6ad712af1e06e4f30b4731cbd6b6f7ea
+    layerID: 1339
+    mosaicPosition: {x: 1412, y: 2353}
+  - name: 1
+    spriteName: 1_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fd12f3da630694799b1c5fd46d560b83
+    layerID: 1058
+    mosaicPosition: {x: 4, y: 4}
+  - name: "\u56FE\u5C42 377"
+    spriteName: "\u56FE\u5C42 377"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2b3e991497e954a6eb985f96770ccac0
+    layerID: 1774
+    mosaicPosition: {x: 4, y: 2353}
+  - name: "\u56FE\u5C42 287"
+    spriteName: "\u56FE\u5C42 287"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0624a2d7d51ac471f9a8d60fcd729de9
+    layerID: 1337
+    mosaicPosition: {x: 4, y: 4702}
+  - name: "\u80CC\u666F"
+    spriteName: "\u80CC\u666F"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: eaa0b599c561d48a18deab7f558de817
+    layerID: 1
+    mosaicPosition: {x: 1412, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: "\u81EA\u7136\u62FC\u56FE2.0 Texture"
+  prefabAssetName: "\u81EA\u7136\u62FC\u56FE2.0 Prefab"
+  spriteLibAssetName: "\u81EA\u7136\u62FC\u56FE2.0 Sprite Lib"
+  secondarySpriteTextures: []

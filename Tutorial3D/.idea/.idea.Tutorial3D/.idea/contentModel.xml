@@ -6,8 +6,11 @@
       <e p="Assets" t="Include">
         <e p="2DBeginner_Third-PartyNotice.txt" t="Include" />
         <e p="Script" t="Include">
+          <e p="Bullet.cs" t="Include" />
+          <e p="CollectibleHealth.cs" t="Include" />
           <e p="FollowCamera.cs" t="Include" />
           <e p="Game.cs" t="Include" />
+          <e p="Map.cs" t="Include" />
           <e p="MapCube.cs" t="Include" />
           <e p="PlayerCtrl.cs" t="Include" />
           <e p="PlayerMove.cs" t="Include" />
