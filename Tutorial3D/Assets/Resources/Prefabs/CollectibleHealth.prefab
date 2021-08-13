@@ -11,8 +11,8 @@ GameObject:
   - component: {fileID: 4955531142993881402}
   - component: {fileID: 4955531142993881403}
   - component: {fileID: 3295482031618136988}
-  - component: {fileID: 7537339736095312451}
   - component: {fileID: 2962884493806379833}
+  - component: {fileID: 5582746021424307596}
   m_Layer: 0
   m_Name: CollectibleHealth
   m_TagString: Untagged
@@ -100,7 +100,22 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0.21}
   serializedVersion: 2
   m_Radius: 0.256
---- !u!50 &7537339736095312451
+--- !u!114 &2962884493806379833
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4955531142993881400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c77566286c10f4777a8a20e471d2e36f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HurtType: 0
+  HurtNums: 0100000064000000
+  AddtNums: 0100000032000000
+--- !u!50 &5582746021424307596
 Rigidbody2D:
   serializedVersion: 4
   m_ObjectHideFlags: 0
@@ -121,18 +136,3 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!114 &2962884493806379833
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4955531142993881400}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c77566286c10f4777a8a20e471d2e36f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  HurtType: 0
-  HurtNums: 0100000064000000
-  AddtNums: 0100000032000000

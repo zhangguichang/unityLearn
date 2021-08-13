@@ -62,11 +62,11 @@ public class PlayerCtrl : MonoBehaviour
 
     private Vector2 lookDir = Vector2.down;
 
-    private PlayerMove moveCtrl;
+    private PlayerMove2 moveCtrl;
     private Animator _animator;
     void Start()
     {
-        moveCtrl = GetComponent<PlayerMove>();
+        moveCtrl = GetComponent<PlayerMove2>();
         _animator = GetComponent<Animator>();
     }
 
@@ -93,8 +93,8 @@ public class PlayerCtrl : MonoBehaviour
 
     public void SetDead()
     {
-        state = EnumPlayerState.dead;
-        playerData.setCurrHp(0);
+        // state = EnumPlayerState.dead;
+        // playerData.setCurrHp(0);
         Debug.Log("死了!");
     }
 
@@ -141,6 +141,8 @@ public class PlayerCtrl : MonoBehaviour
         {
             SetDead();
         }
+        var radio = currHp / playerData.maxHp;
+        UIHealthBar.Instance.SetProgress(radio);
     }
 
     // Update is called once per frame

@@ -11,8 +11,8 @@ GameObject:
   - component: {fileID: 1644891513383245820}
   - component: {fileID: 1644891513383245811}
   - component: {fileID: 4903679296788673909}
-  - component: {fileID: 2179933669817051102}
   - component: {fileID: 7205724510133354228}
+  - component: {fileID: 8553959275860133984}
   m_Layer: 0
   m_Name: MapCube
   m_TagString: Untagged
@@ -96,27 +96,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca439e99e03794f12bc97124dc7f1dc0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!50 &2179933669817051102
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1644891513383245810}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 100
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 0
-  m_Material: {fileID: 0}
-  m_Interpolate: 0
-  m_SleepingMode: 2
-  m_CollisionDetection: 0
-  m_Constraints: 4
 --- !u!61 &7205724510133354228
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -143,3 +122,24 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.8829162, y: 0.36339784}
   m_EdgeRadius: 0
+--- !u!50 &8553959275860133984
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1644891513383245810}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
